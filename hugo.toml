@@ -1,0 +1,30 @@
+baseURL = "https://abc18267.github.io/printupgraded/"
+languageCode = "en-us"
+title = "PrintUpgraded"
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Practical guides to 3D printer upgrades, filament comparisons, and slicer settings. Better prints start here."
+  author = "PrintUpgraded Team"
+  tagline = "Better prints start here."
+  mainSections = ["blog"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

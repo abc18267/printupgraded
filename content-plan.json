@@ -1,0 +1,328 @@
+{
+  "site_id": "site-001",
+  "created_at": "2026-02-13",
+  "total_planned": 35,
+  "clusters": [
+    {
+      "name": "Upgrades",
+      "slug": "upgrades",
+      "pillar": {
+        "title": "Best 3D Printer Upgrades That Actually Matter",
+        "slug": "best-3d-printer-upgrades",
+        "primary_keyword": "best 3D printer upgrades",
+        "word_count_target": 2500,
+        "status": "written"
+      },
+      "supporting": [
+        {
+          "title": "All-Metal Hotend Upgrade: Is It Worth It?",
+          "slug": "all-metal-hotend-upgrade",
+          "primary_keyword": "all-metal hotend upgrade",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?",
+          "slug": "direct-drive-vs-bowden",
+          "primary_keyword": "direct drive vs bowden",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?",
+          "slug": "pei-vs-glass-vs-magnetic-build-plate",
+          "primary_keyword": "PEI build plate vs glass",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet",
+          "slug": "tmc2209-stepper-driver-upgrade",
+          "primary_keyword": "TMC2209 stepper driver upgrade",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "3D Printer Enclosure: Do You Need One?",
+          "slug": "3d-printer-enclosure-guide",
+          "primary_keyword": "3D printer enclosure",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best LED Lighting for Your 3D Printer Setup",
+          "slug": "3d-printer-led-lighting",
+          "primary_keyword": "3D printer lighting",
+          "word_count_target": 800,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Klipper vs Marlin Firmware: Which Should You Use?",
+          "slug": "klipper-vs-marlin",
+          "primary_keyword": "Klipper vs Marlin",
+          "word_count_target": 1200,
+          "status": "planned",
+          "links_to_pillar": true
+        }
+      ]
+    },
+    {
+      "name": "Filament",
+      "slug": "filament",
+      "pillar": {
+        "title": "PLA vs PETG vs ABS: Complete Filament Comparison Guide",
+        "slug": "pla-vs-petg-vs-abs",
+        "primary_keyword": "PLA vs PETG vs ABS",
+        "word_count_target": 2500,
+        "status": "written"
+      },
+      "supporting": [
+        {
+          "title": "How to Print PETG: Settings, Tips, and Common Mistakes",
+          "slug": "how-to-print-petg",
+          "primary_keyword": "how to print PETG",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best PLA Filament Brands: Top Picks for Reliable Prints",
+          "slug": "best-pla-filament",
+          "primary_keyword": "best PLA filament",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "How to Print TPU Flexible Filament: A Beginner's Guide",
+          "slug": "how-to-print-tpu",
+          "primary_keyword": "how to print TPU",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Filament Drying Guide: Why It Matters and How to Do It Right",
+          "slug": "filament-drying-guide",
+          "primary_keyword": "filament drying",
+          "word_count_target": 1000,
+          "status": "written",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Nylon Filament Printing Guide: Settings and Tips",
+          "slug": "how-to-print-nylon",
+          "primary_keyword": "nylon filament printing",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "ASA vs ABS: Which Filament Is Better for Outdoor Prints?",
+          "slug": "asa-vs-abs",
+          "primary_keyword": "ASA vs ABS filament",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best PETG Filament Brands Worth Buying",
+          "slug": "best-petg-filament",
+          "primary_keyword": "best PETG filament",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        }
+      ]
+    },
+    {
+      "name": "Slicer Settings",
+      "slug": "slicer-settings",
+      "pillar": {
+        "title": "Cura vs OrcaSlicer vs PrusaSlicer: Which Free Slicer Is Best?",
+        "slug": "cura-vs-orcaslicer-vs-prusaslicer",
+        "primary_keyword": "Cura vs OrcaSlicer vs PrusaSlicer",
+        "word_count_target": 2500,
+        "status": "planned"
+      },
+      "supporting": [
+        {
+          "title": "Best Cura Settings for PLA: A Complete Profile Guide",
+          "slug": "best-cura-settings-pla",
+          "primary_keyword": "best Cura settings for PLA",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "OrcaSlicer Beginner Guide: Setup and First Print",
+          "slug": "orcaslicer-beginner-guide",
+          "primary_keyword": "OrcaSlicer beginner guide",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "How to Reduce Stringing in Your Slicer Settings",
+          "slug": "reduce-stringing-slicer-settings",
+          "primary_keyword": "reduce stringing slicer settings",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Infill Patterns Explained: Which One Should You Use?",
+          "slug": "infill-patterns-explained",
+          "primary_keyword": "infill patterns 3D printing",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Support Settings Guide: When and How to Use Supports",
+          "slug": "3d-print-support-settings",
+          "primary_keyword": "3D print support settings",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Print Speed vs Quality: Finding the Right Balance",
+          "slug": "print-speed-vs-quality",
+          "primary_keyword": "3D print speed vs quality",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        }
+      ]
+    },
+    {
+      "name": "Troubleshooting",
+      "slug": "troubleshooting",
+      "pillar": {
+        "title": "3D Print Troubleshooting: Fix the Most Common Problems",
+        "slug": "3d-print-troubleshooting",
+        "primary_keyword": "3D print troubleshooting",
+        "word_count_target": 2500,
+        "status": "planned"
+      },
+      "supporting": [
+        {
+          "title": "How to Fix 3D Print Stringing Once and For All",
+          "slug": "fix-3d-print-stringing",
+          "primary_keyword": "3D print stringing",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "3D Print Warping: Causes and Fixes That Work",
+          "slug": "fix-3d-print-warping",
+          "primary_keyword": "3D print warping",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Layer Adhesion Problems: Why Your Prints Are Weak",
+          "slug": "layer-adhesion-problems",
+          "primary_keyword": "3D print layer adhesion",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "First Layer Not Sticking? Here's How to Fix Bed Adhesion",
+          "slug": "fix-bed-adhesion",
+          "primary_keyword": "3D print bed adhesion",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Under-Extrusion: Causes, Diagnosis, and Fixes",
+          "slug": "fix-under-extrusion",
+          "primary_keyword": "3D printer under-extrusion",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Elephant's Foot and Other First Layer Issues Explained",
+          "slug": "elephants-foot-first-layer-issues",
+          "primary_keyword": "elephant's foot 3D printing",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        }
+      ]
+    },
+    {
+      "name": "Buyer Guides",
+      "slug": "buyer-guides",
+      "pillar": {
+        "title": "Best 3D Printer Upgrades Under $50: Budget Picks That Work",
+        "slug": "best-budget-3d-printer-upgrades",
+        "primary_keyword": "best budget 3D printer upgrades",
+        "word_count_target": 2500,
+        "status": "planned"
+      },
+      "supporting": [
+        {
+          "title": "Best Filament Dryers: Top Picks for Every Budget",
+          "slug": "best-filament-dryers",
+          "primary_keyword": "best filament dryer",
+          "word_count_target": 1200,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best PEI Build Plates for Ender 3 and Other Printers",
+          "slug": "best-pei-build-plates",
+          "primary_keyword": "best PEI build plate",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best All-Metal Hotends You Can Buy Right Now",
+          "slug": "best-all-metal-hotends",
+          "primary_keyword": "best all-metal hotend",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best Direct Drive Extruder Upgrades for Creality Printers",
+          "slug": "best-direct-drive-extruders",
+          "primary_keyword": "best direct drive extruder",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best 3D Printer Tool Kits for Beginners",
+          "slug": "best-3d-printer-tool-kits",
+          "primary_keyword": "3D printer tool kit",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        },
+        {
+          "title": "Best Filament Storage Solutions to Keep Spools Dry",
+          "slug": "best-filament-storage",
+          "primary_keyword": "filament storage solutions",
+          "word_count_target": 1000,
+          "status": "planned",
+          "links_to_pillar": true
+        }
+      ]
+    }
+  ]
+}

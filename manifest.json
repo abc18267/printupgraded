@@ -1,0 +1,18 @@
+{
+  "site_id": "site-001",
+  "name": "PrintUpgraded",
+  "slug": "3d-printer-upgrades",
+  "niche": "3D printer upgrades, filament, and slicer settings",
+  "url": null,
+  "status": "scaffolded",
+  "created_at": "2026-02-13",
+  "deployed_at": null,
+  "articles": 10,
+  "last_content_added": "2026-02-13",
+  "categories": ["upgrades", "filament", "slicer-settings", "troubleshooting", "buyer-guides"],
+  "monetization": {
+    "affiliate_programs": ["Amazon Associates", "Overture 3D", "Anycubic", "Creality", "MatterHackers"],
+    "digital_products": [],
+    "display_ads": null
+  }
+}

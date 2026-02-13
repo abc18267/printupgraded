@@ -1,0 +1,21 @@
+{{ define "main" }}
+<h1>{{ .Site.Title }}</h1>
+<p>{{ .Site.Params.description }}</p>
+
+{{ $blogPages := where .Site.RegularPages "Section" "blog" }}
+{{ if $blogPages }}
+<h2>Latest Articles</h2>
+<ul class="post-list">
+  {{ range first 20 $blogPages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+    {{ with .Description }}<div class="summary">{{ . }}</div>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ else }}
+<h2>Coming Soon</h2>
+<p>We're working on our first round of 3D printer upgrade guides, filament comparisons, and slicer setting walkthroughs. Check back soon.</p>
+{{ end }}
+{{ end }}
