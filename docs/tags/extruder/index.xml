@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extruder on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/extruder/</link>
+    <description>Recent content in Extruder on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/extruder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/direct-drive-vs-bowden/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/direct-drive-vs-bowden/</guid>
+      <description>&lt;h1 id=&#34;direct-drive-vs-bowden-extruder-which-is-better-for-your-printer&#34;&gt;Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing direct drive vs Bowden, here&amp;rsquo;s the short answer. Bowden is better for speed. Direct drive is better for filament variety and print quality. If you want to print flexible filaments like TPU, direct drive is almost mandatory. If you only print PLA at high speeds, Bowden works great.&lt;/p&gt;&#xA;&lt;p&gt;Most budget printers come with Bowden setups. Many people upgrade to direct drive after hitting the limits of what Bowden can do. Let&amp;rsquo;s look at why.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

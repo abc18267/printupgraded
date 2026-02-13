@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bed Adhesion on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/bed-adhesion/</link>
+    <description>Recent content in Bed Adhesion on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/bed-adhesion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We earn a small commission if you buy through them. This doesn&amp;rsquo;t cost you extra and doesn&amp;rsquo;t affect our recommendations. See our &lt;a href=&#34;https://abc18267.github.io/printupgraded/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h1 id=&#34;pei-build-plate-vs-glass-vs-magnetic-which-print-surface-wins&#34;&gt;PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?&lt;/h1&gt;&#xA;&lt;p&gt;Comparing a PEI build plate vs glass? PEI wins for most people. It gives you strong adhesion when hot and easy part removal when cool. Glass is flatter and gives a smooth bottom finish, but parts can be hard to remove. Magnetic flex plates are convenient but wear out faster.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/series/</link>
+    <description>Recent content in Series on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filament-Guides</title>
+      <link>https://abc18267.github.io/printupgraded/series/filament-guides/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/series/filament-guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upgrade-Guides</title>
+      <link>https://abc18267.github.io/printupgraded/series/upgrade-guides/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/series/upgrade-guides/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

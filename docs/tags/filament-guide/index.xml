@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filament Guide on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/filament-guide/</link>
+    <description>Recent content in Filament Guide on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/filament-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Print PETG: Settings, Tips, and Common Mistakes</title>
+      <link>https://abc18267.github.io/printupgraded/blog/how-to-print-petg/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/how-to-print-petg/</guid>
+      <description>&lt;h1 id=&#34;how-to-print-petg-settings-tips-and-common-mistakes&#34;&gt;How to Print PETG: Settings, Tips, and Common Mistakes&lt;/h1&gt;&#xA;&lt;p&gt;PETG is one of the best filaments for functional prints. But if you try printing it with your PLA settings, you&amp;rsquo;ll end up with a stringy mess. Here&amp;rsquo;s how to print PETG properly, with the right temperatures, retraction settings, and tips to avoid the most common mistakes.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re still deciding whether PETG is right for your project, check out our &lt;a href=&#34;https://abc18267.github.io/printupgraded/blog/pla-vs-petg-vs-abs/&#34;&gt;PLA vs PETG vs ABS comparison&lt;/a&gt; first.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

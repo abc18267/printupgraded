@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filament Storage on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/filament-storage/</link>
+    <description>Recent content in Filament Storage on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/filament-storage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filament Drying Guide: Why It Matters and How to Do It Right</title>
+      <link>https://abc18267.github.io/printupgraded/blog/filament-drying-guide/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/filament-drying-guide/</guid>
+      <description>&lt;h1 id=&#34;filament-drying-guide-why-it-matters-and-how-to-do-it-right&#34;&gt;Filament Drying Guide: Why It Matters and How to Do It Right&lt;/h1&gt;&#xA;&lt;p&gt;Wet filament is one of the most common causes of bad 3D prints. If your prints have rough surfaces, popping sounds, stringing, or weak layers, moisture is probably the problem. Filament drying is simple. You just need to apply gentle heat for a few hours. This guide covers why it matters, how to spot the signs, and the best ways to dry and store your filament.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
