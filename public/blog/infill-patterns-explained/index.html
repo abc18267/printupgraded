@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Infill Patterns Explained: Which One Should You Use? - PrintUpgraded</title>
+  <meta name="description" content="Infill patterns in 3D printing explained. Compare grid, gyroid, cubic, lightning, and more to find the right pattern for your prints">
+  <meta property="og:title" content="Infill Patterns Explained: Which One Should You Use?">
+  <meta property="og:description" content="Infill patterns in 3D printing explained. Compare grid, gyroid, cubic, lightning, and more to find the right pattern for your prints">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="PrintUpgraded">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Infill Patterns Explained: Which One Should You Use?">
+  <meta name="twitter:description" content="Infill patterns in 3D printing explained. Compare grid, gyroid, cubic, lightning, and more to find the right pattern for your prints">
+  <link rel="canonical" href="https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/">
+  <link rel="sitemap" type="application/xml" href="https://abc18267.github.io/printupgraded/sitemap.xml">
+  
+  <style>
+    :root { --max-width: 720px; --text: #1a1a1a; --bg: #fff; --accent: #0066cc; --muted: #666; --border: #e5e5e5; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); line-height: 1.7; font-size: 17px; }
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+    header { border-bottom: 1px solid var(--border); padding: 1.5rem 0; margin-bottom: 2rem; }
+    .site-title { color: var(--text); text-decoration: none; font-weight: 700; font-size: 1.25rem; }
+    .site-tagline { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 0.15rem; }
+    nav { margin-top: 0.5rem; }
+    nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; font-size: 0.9rem; }
+    nav a:hover { color: var(--accent); }
+    main { padding-bottom: 3rem; }
+    h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    p { margin-bottom: 1rem; }
+    a { color: var(--accent); }
+    ul, ol { margin-bottom: 1rem; padding-left: 1.5rem; }
+    li { margin-bottom: 0.25rem; }
+    img { max-width: 100%; height: auto; }
+    .post-meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .post-list a { text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+    .post-list .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
+    .post-list .date { color: var(--muted); font-size: 0.85rem; }
+    .ad-placeholder { background: var(--bg); border: 1px dashed var(--border); padding: 1rem; text-align: center; color: var(--muted); font-size: 0.8rem; margin: 2rem 0; min-height: 90px; display: none; }
+    .disclosure { background: #f9f9f9; border-left: 3px solid var(--accent); padding: 0.75rem 1rem; font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+    footer { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; text-align: center; }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+    @media (max-width: 600px) { body { font-size: 16px; } h1 { font-size: 1.6rem; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="site-title" href="/">PrintUpgraded</a>
+      <span class="site-tagline">Better prints start here.</span>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </nav>
+    </header>
+    
+    <div class="ad-placeholder" id="ad-top" aria-hidden="true">Ad Space</div>
+    <main>
+      
+<article>
+  <h1>Infill Patterns Explained: Which One Should You Use?</h1>
+  <p><em>This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. <a href="/disclosure/">Full disclosure here</a>.</em></p>
+<h1 id="infill-patterns-explained-which-one-should-you-use">Infill Patterns Explained: Which One Should You Use?</h1>
+<p>Infill patterns in 3D printing determine the internal structure of your prints. The right pattern depends on what you&rsquo;re printing. Grid and lines work great for quick prints that don&rsquo;t need strength. Gyroid is the best all-around choice for functional parts. Lightning saves the most material when you just need to support top layers.</p>
+<p>Here&rsquo;s what each pattern does and when to use it.</p>
+<h2 id="what-is-infill-and-why-does-it-matter">What Is Infill and Why Does It Matter?</h2>
+<p>Most 3D prints aren&rsquo;t solid. They have solid outer walls and a partially filled interior. That interior structure is your infill.</p>
+<p>Infill affects three things: strength, weight, and print time. More infill means stronger and heavier prints that take longer. Less infill means lighter, faster prints that are weaker.</p>
+<p>But the pattern of that infill matters just as much as the percentage. A 20% gyroid infill is significantly stronger than 20% lines infill, even though they use about the same amount of material.</p>
+<h2 id="infill-patterns-compared">Infill Patterns Compared</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Pattern</th>
+          <th>Strength</th>
+          <th>Print Speed</th>
+          <th>Material Use</th>
+          <th>Best For</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Lines/Rectilinear</strong></td>
+          <td>Low</td>
+          <td>Very fast</td>
+          <td>Low</td>
+          <td>Quick prints, prototypes</td>
+      </tr>
+      <tr>
+          <td><strong>Grid</strong></td>
+          <td>Medium</td>
+          <td>Fast</td>
+          <td>Medium</td>
+          <td>General purpose</td>
+      </tr>
+      <tr>
+          <td><strong>Triangles</strong></td>
+          <td>Medium-High</td>
+          <td>Medium</td>
+          <td>Medium</td>
+          <td>Parts loaded from the top</td>
+      </tr>
+      <tr>
+          <td><strong>Cubic</strong></td>
+          <td>High</td>
+          <td>Medium</td>
+          <td>Medium</td>
+          <td>Functional parts, all-direction strength</td>
+      </tr>
+      <tr>
+          <td><strong>Gyroid</strong></td>
+          <td>High</td>
+          <td>Slower</td>
+          <td>Medium</td>
+          <td>Best all-around strength</td>
+      </tr>
+      <tr>
+          <td><strong>Lightning</strong></td>
+          <td>Very Low</td>
+          <td>Fastest</td>
+          <td>Very Low</td>
+          <td>Decorative prints, vases</td>
+      </tr>
+      <tr>
+          <td><strong>Honeycomb</strong></td>
+          <td>High</td>
+          <td>Slow</td>
+          <td>High</td>
+          <td>Maximum strength</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="lines-and-rectilinear">Lines and Rectilinear</h2>
+<p>Lines is the simplest infill pattern. It prints parallel lines in one direction, alternating by 90 degrees each layer. Rectilinear is similar but slightly denser at the connection points.</p>
+<p><strong>Pros:</strong> Fastest print time. Uses the least material of the traditional patterns. Minimal retraction means less chance of <a href="/blog/reduce-stringing-slicer-settings/">stringing</a>.</p>
+<p><strong>Cons:</strong> Weak in the direction perpendicular to the lines. Not great for functional parts. Top layers can sag between the lines if the infill percentage is low.</p>
+<p><strong>Use when:</strong> You&rsquo;re prototyping, printing decorative items, or need something fast. Bump the density to 25% if you notice the top layer pillowing.</p>
+<h2 id="grid">Grid</h2>
+<p>Grid prints lines in two perpendicular directions on every layer, creating a crosshatch pattern. It&rsquo;s one of the most commonly used patterns.</p>
+<p><strong>Pros:</strong> Stronger than lines in all horizontal directions. Still fairly fast to print. Good default choice.</p>
+<p><strong>Cons:</strong> Not as strong as cubic or gyroid for the same material usage. Can create pressure buildup in enclosed spaces, causing surface defects on some prints.</p>
+<p><strong>Use when:</strong> You need a simple, reliable infill for everyday prints. 20% grid works for most things.</p>
+<h2 id="triangles">Triangles</h2>
+<p>Triangle infill creates a pattern of triangles on each layer. It&rsquo;s strong when forces push down from the top, which makes it good for structural parts.</p>
+<p><strong>Pros:</strong> Strong against vertical loads. More rigid than grid. Good for shelf brackets, mounts, and similar parts.</p>
+<p><strong>Cons:</strong> Uses more material than grid at the same percentage. Slower to print because of the extra travel moves.</p>
+<p><strong>Use when:</strong> Your part needs to support weight from above. Think mounting brackets, tool holders, or structural supports.</p>
+<h2 id="cubic">Cubic</h2>
+<p>Cubic creates a 3D pattern of tilted cubes. Unlike grid or triangles, cubic provides strength in all three directions, not just the horizontal plane.</p>
+<p><strong>Pros:</strong> Strong in every direction. Good balance of strength, speed, and material usage. Doesn&rsquo;t trap air pockets that cause surface issues.</p>
+<p><strong>Cons:</strong> Slightly slower than grid. A bit harder to preview in the slicer.</p>
+<p><strong>Use when:</strong> You&rsquo;re printing functional parts that experience forces from multiple directions. Cubic is an excellent default for anything that needs to be strong.</p>
+<h2 id="gyroid">Gyroid</h2>
+<p>Gyroid is a wavy, 3D pattern that curves through the model interior. It&rsquo;s become the go-to recommendation for strength-focused prints in the 3D printing community.</p>
+<p><strong>Pros:</strong> Strongest infill pattern relative to material usage. Equal strength in all directions. Flexible rather than brittle. Allows liquid to flow through (useful for casting molds). Looks cool if you print a cross-section.</p>
+<p><strong>Cons:</strong> Slowest of the common patterns because of the curved movements. Can be harder on your printer&rsquo;s motors due to constant direction changes.</p>
+<p><strong>Use when:</strong> You&rsquo;re printing anything functional and want the best strength-to-weight ratio. Gyroid at 15-20% often matches grid at 30-40% in practical strength tests.</p>
+<p>The material you print with affects how well infill works. Flexible materials like TPU work differently than rigid materials like PLA. Check our <a href="/blog/pla-vs-petg-vs-abs/">PLA vs PETG vs ABS comparison</a> to understand how material choice and infill work together.</p>
+<h2 id="lightning">Lightning</h2>
+<p>Lightning is a newer pattern available in Cura and OrcaSlicer. Instead of filling the entire interior, it only builds support structures where the top surface needs them. The result looks like lightning bolts branching upward.</p>
+<p><strong>Pros:</strong> Uses dramatically less material than any other pattern. Fastest print time. Still produces good top surfaces.</p>
+<p><strong>Cons:</strong> Almost zero internal strength. The part will be nearly hollow. Not suitable for any functional use.</p>
+<p><strong>Use when:</strong> You&rsquo;re printing decorative items, display models, or anything that won&rsquo;t experience force. Lightning at 15% can cut your print time and filament usage in half compared to grid at 15%.</p>
+<h2 id="honeycomb">Honeycomb</h2>
+<p>Honeycomb creates a hexagonal pattern similar to a beehive. It&rsquo;s been around for a long time in 3D printing.</p>
+<p><strong>Pros:</strong> Very strong. Natural structure that distributes force well.</p>
+<p><strong>Cons:</strong> Slow to print because of the many short moves and direction changes. Uses more material than cubic or gyroid for similar strength. Lots of retraction can cause <a href="/blog/reduce-stringing-slicer-settings/">stringing issues</a>.</p>
+<p><strong>Use when:</strong> You need maximum strength and don&rsquo;t care about print time or material usage. For most people, gyroid or cubic is a better choice with similar strength and faster prints.</p>
+<h2 id="what-infill-percentage-should-you-use">What Infill Percentage Should You Use?</h2>
+<p>The pattern only tells half the story. The percentage matters too.</p>
+<ul>
+<li><strong>0-10%:</strong> Display models, prototypes. Very fragile. Top layers may sag.</li>
+<li><strong>15-20%:</strong> General purpose. Good enough for most non-functional prints.</li>
+<li><strong>30-40%:</strong> Functional parts. Handles reasonable force and stress.</li>
+<li><strong>50-75%:</strong> High-strength applications. Diminishing returns above 50%.</li>
+<li><strong>100%:</strong> Solid. Rarely needed. Adding more walls is usually a better way to add strength.</li>
+</ul>
+<p>Here&rsquo;s a tip most guides don&rsquo;t mention. Increasing wall count from 3 to 5 adds more strength than going from 20% to 40% infill. Walls are the structural backbone of your print. Infill mainly supports the top surface and adds some rigidity.</p>
+<p>For the full picture on how to dial in these settings, see our <a href="/blog/cura-vs-orcaslicer-vs-prusaslicer/">slicer comparison guide</a> which covers how each slicer handles infill options.</p>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the strongest infill pattern for 3D printing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gyroid is the strongest infill pattern relative to the amount of material used. It provides equal strength in all directions and is more resilient than grid or cubic patterns. For absolute maximum strength regardless of material use, honeycomb is also very strong."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does infill pattern affect print time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, significantly. Lightning and lines are the fastest patterns. Gyroid and honeycomb are the slowest. At 20% infill, the difference between the fastest and slowest pattern can be 15-30 minutes on a typical print."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 100% infill ever worth using?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely. Going from 50% to 100% infill roughly doubles print time and material usage but only adds about 10-15% more strength. A better approach is using 40-50% infill with 5-6 walls. The extra walls add more structural strength than filling the interior solid."
+      }
+    }
+  ]
+}
+</script>
+<h3 id="what-is-the-strongest-infill-pattern-for-3d-printing">What is the strongest infill pattern for 3D printing?</h3>
+<p>Gyroid is the strongest infill pattern relative to the amount of material used. It provides equal strength in all directions and is more resilient than grid or cubic patterns. For absolute maximum strength regardless of material use, honeycomb is also very strong.</p>
+<h3 id="does-infill-pattern-affect-print-time">Does infill pattern affect print time?</h3>
+<p>Yes, significantly. Lightning and lines are the fastest patterns. Gyroid and honeycomb are the slowest. At 20% infill, the difference between the fastest and slowest pattern can be 15-30 minutes on a typical print.</p>
+<h3 id="is-100-infill-ever-worth-using">Is 100% infill ever worth using?</h3>
+<p>Rarely. Going from 50% to 100% infill roughly doubles print time and material usage but only adds about 10-15% more strength. A better approach is using 40-50% infill with 5-6 walls. The extra walls add more structural strength than filling the interior solid.</p>
+
+</article>
+
+    </main>
+    
+    <div class="ad-placeholder" id="ad-bottom" aria-hidden="true">Ad Space</div>
+    <footer>
+      <p>&copy; 2026 PrintUpgraded. All rights reserved.</p>
+      <p>
+        <a href="/privacy/">Privacy Policy</a> &middot;
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </p>
+      <p>Some links on this site are affiliate links. We may earn a commission if you make a purchase.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print-Profiles on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/print-profiles/</link>
+    <description>Recent content in Print-Profiles on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/print-profiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Cura Settings for PLA: A Complete Profile Guide</title>
+      <link>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-cura-settings-for-pla-a-complete-profile-guide&#34;&gt;Best Cura Settings for PLA: A Complete Profile Guide&lt;/h1&gt;&#xA;&lt;p&gt;The best Cura settings for PLA are 200-210C nozzle temperature, 60C bed temperature, 50 mm/s print speed, and 0.2mm layer height. These work as a reliable starting point for most printers. But the details matter, and small tweaks make the difference between an okay print and a great one.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

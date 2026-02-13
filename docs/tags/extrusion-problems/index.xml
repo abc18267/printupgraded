@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extrusion Problems on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/extrusion-problems/</link>
+    <description>Recent content in Extrusion Problems on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/extrusion-problems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Under-Extrusion: Causes, Diagnosis, and Fixes</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;under-extrusion-causes-diagnosis-and-fixes&#34;&gt;Under-Extrusion: Causes, Diagnosis, and Fixes&lt;/h1&gt;&#xA;&lt;p&gt;3D printer under-extrusion means your printer isn&amp;rsquo;t pushing out enough filament. You&amp;rsquo;ll see gaps between lines, thin or missing layers, and weak infill. Your prints look incomplete and feel fragile. The most common causes are a clogged nozzle, wrong temperature, or an extruder that&amp;rsquo;s slipping. Here&amp;rsquo;s how to diagnose and fix it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

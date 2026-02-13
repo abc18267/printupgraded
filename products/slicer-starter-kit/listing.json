@@ -1,0 +1,31 @@
+{
+  "name": "Slicer Starter Kit",
+  "slug": "slicer-starter-kit",
+  "niche": "3D printer slicer settings and profiles",
+  "site_id": "site-001",
+  "type": "template",
+  "price": "$7",
+  "format": "ZIP (Cura profiles + PDF guide + checklist)",
+  "platform": "Gumroad",
+  "listing_title": "Slicer Starter Kit: Pre-Tuned Cura Profiles + Settings Guide for Perfect Prints",
+  "listing_description": "Stop guessing your slicer settings. This kit gives you three ready-to-import Cura profiles for PLA, PETG, and TPU, plus a settings guide that explains the 10 most important settings in plain English.\n\nOptimized for the Ender 3 and Ender 3 V2, but the guide works with any FDM printer and any slicer. You'll also get a printable first-print checklist so you never forget a step.\n\nThese profiles were tested and tuned over dozens of prints. They're not default settings with a new name. Every value was chosen for a reason, and the guide explains why.\n\nThis kit is for people who want to spend less time tweaking and more time printing. Import the profiles, read the guide, and start getting better prints today.",
+  "bullet_points": [
+    "3 pre-tuned Cura profiles: PLA, PETG, and TPU for Ender 3/V2",
+    "Complete settings guide explaining the 10 most important slicer settings",
+    "Side-by-side comparison table for PLA vs PETG vs TPU settings",
+    "Visual troubleshooting guide: see the problem, find the fix",
+    "Printable first-print checklist for every material",
+    "Works with Cura 5.x. Guide applies to any slicer including OrcaSlicer and PrusaSlicer"
+  ],
+  "tags": ["3d printing", "cura profiles", "slicer settings", "ender 3", "PLA", "PETG", "TPU", "print quality"],
+  "cta": "Get the Starter Kit - $7",
+  "cross_promote_articles": [
+    "best-cura-settings-pla",
+    "cura-vs-orcaslicer-vs-prusaslicer",
+    "reduce-stringing-slicer-settings",
+    "how-to-print-petg",
+    "how-to-print-tpu"
+  ],
+  "created_at": "2026-02-13T00:00:00Z",
+  "status": "draft"
+}

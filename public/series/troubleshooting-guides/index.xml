@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting-Guides on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/series/troubleshooting-guides/</link>
+    <description>Recent content in Troubleshooting-Guides on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/series/troubleshooting-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Print Troubleshooting: Fix the Most Common Problems</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-print-troubleshooting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-print-troubleshooting/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;3d-print-troubleshooting-fix-the-most-common-problems&#34;&gt;3D Print Troubleshooting: Fix the Most Common Problems&lt;/h1&gt;&#xA;&lt;p&gt;Every 3D printer owner hits problems. Stringing, warping, failed first layers, weak parts. These issues don&amp;rsquo;t mean your printer is broken. They mean something needs adjusting. This 3D print troubleshooting guide covers the most common problems you&amp;rsquo;ll face and shows you exactly how to fix each one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Print Warping: Causes and Fixes That Work</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;3d-print-warping-causes-and-fixes-that-work&#34;&gt;3D Print Warping: Causes and Fixes That Work&lt;/h1&gt;&#xA;&lt;p&gt;3D print warping happens when the corners or edges of your print curl up from the bed. It&amp;rsquo;s one of the most common and frustrating problems in 3D printing. The fix depends on your material, your environment, and your bed setup. In most cases, you can stop warping completely with the right combination of bed temperature, adhesion helpers, and environmental control.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elephant&#39;s Foot and Other First Layer Issues Explained</title>
+      <link>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;elephants-foot-and-other-first-layer-issues-explained&#34;&gt;Elephant&amp;rsquo;s Foot and Other First Layer Issues Explained&lt;/h1&gt;&#xA;&lt;p&gt;Elephant&amp;rsquo;s foot in 3D printing is when the first layer or two of your print bulge outward. The bottom of the part ends up wider than the rest. It&amp;rsquo;s named after what it looks like: a flat, flared base, similar to an elephant&amp;rsquo;s foot. The main causes are a Z offset that&amp;rsquo;s too close, a bed temperature that&amp;rsquo;s too high, or too much weight pressing down on a hot first layer. Here&amp;rsquo;s how to fix it and other first layer problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;first-layer-not-sticking-heres-how-to-fix-bed-adhesion&#34;&gt;First Layer Not Sticking? Here&amp;rsquo;s How to Fix Bed Adhesion&lt;/h1&gt;&#xA;&lt;p&gt;If your first layer won&amp;rsquo;t stick, nothing else matters. The whole print will fail. 3D print bed adhesion problems are the most common issue beginners face. In most cases, the fix is simple: your bed isn&amp;rsquo;t level, your Z offset is wrong, or your build surface is dirty. Let&amp;rsquo;s walk through every cause and fix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Fix 3D Print Stringing Once and For All</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-fix-3d-print-stringing-once-and-for-all&#34;&gt;How to Fix 3D Print Stringing Once and For All&lt;/h1&gt;&#xA;&lt;p&gt;3D print stringing is those thin, wispy threads of filament that stretch between parts of your model. They look like spider webs. They&amp;rsquo;re annoying. And they&amp;rsquo;re one of the most common print quality issues you&amp;rsquo;ll run into. The good news is that stringing is almost always fixable with the right combination of temperature, retraction, and travel settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Layer Adhesion Problems: Why Your Prints Are Weak</title>
+      <link>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;layer-adhesion-problems-why-your-prints-are-weak&#34;&gt;Layer Adhesion Problems: Why Your Prints Are Weak&lt;/h1&gt;&#xA;&lt;p&gt;If your 3D prints snap apart along the layer lines, you have a layer adhesion problem. Good 3D print layer adhesion means each layer fuses properly to the one below it. When it works, your parts are strong. When it doesn&amp;rsquo;t, they&amp;rsquo;re brittle and fragile. The most common cause is printing too cold. Raise your temperature 5-10C and you&amp;rsquo;ll probably fix it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Under-Extrusion: Causes, Diagnosis, and Fixes</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;under-extrusion-causes-diagnosis-and-fixes&#34;&gt;Under-Extrusion: Causes, Diagnosis, and Fixes&lt;/h1&gt;&#xA;&lt;p&gt;3D printer under-extrusion means your printer isn&amp;rsquo;t pushing out enough filament. You&amp;rsquo;ll see gaps between lines, thin or missing layers, and weak infill. Your prints look incomplete and feel fragile. The most common causes are a clogged nozzle, wrong temperature, or an extruder that&amp;rsquo;s slipping. Here&amp;rsquo;s how to diagnose and fix it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

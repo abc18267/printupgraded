@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Under-Extrusion: Causes, Diagnosis, and Fixes - PrintUpgraded</title>
+  <meta name="description" content="Fix 3D printer under-extrusion causing gaps, thin walls, and weak prints with this complete diagnosis and repair guide">
+  <meta property="og:title" content="Under-Extrusion: Causes, Diagnosis, and Fixes">
+  <meta property="og:description" content="Fix 3D printer under-extrusion causing gaps, thin walls, and weak prints with this complete diagnosis and repair guide">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="PrintUpgraded">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Under-Extrusion: Causes, Diagnosis, and Fixes">
+  <meta name="twitter:description" content="Fix 3D printer under-extrusion causing gaps, thin walls, and weak prints with this complete diagnosis and repair guide">
+  <link rel="canonical" href="https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/">
+  <link rel="sitemap" type="application/xml" href="https://abc18267.github.io/printupgraded/sitemap.xml">
+  
+  <style>
+    :root { --max-width: 720px; --text: #1a1a1a; --bg: #fff; --accent: #0066cc; --muted: #666; --border: #e5e5e5; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); line-height: 1.7; font-size: 17px; }
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+    header { border-bottom: 1px solid var(--border); padding: 1.5rem 0; margin-bottom: 2rem; }
+    .site-title { color: var(--text); text-decoration: none; font-weight: 700; font-size: 1.25rem; }
+    .site-tagline { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 0.15rem; }
+    nav { margin-top: 0.5rem; }
+    nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; font-size: 0.9rem; }
+    nav a:hover { color: var(--accent); }
+    main { padding-bottom: 3rem; }
+    h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    p { margin-bottom: 1rem; }
+    a { color: var(--accent); }
+    ul, ol { margin-bottom: 1rem; padding-left: 1.5rem; }
+    li { margin-bottom: 0.25rem; }
+    img { max-width: 100%; height: auto; }
+    .post-meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .post-list a { text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+    .post-list .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
+    .post-list .date { color: var(--muted); font-size: 0.85rem; }
+    .ad-placeholder { background: var(--bg); border: 1px dashed var(--border); padding: 1rem; text-align: center; color: var(--muted); font-size: 0.8rem; margin: 2rem 0; min-height: 90px; display: none; }
+    .disclosure { background: #f9f9f9; border-left: 3px solid var(--accent); padding: 0.75rem 1rem; font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+    footer { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; text-align: center; }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+    @media (max-width: 600px) { body { font-size: 16px; } h1 { font-size: 1.6rem; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="site-title" href="/">PrintUpgraded</a>
+      <span class="site-tagline">Better prints start here.</span>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </nav>
+    </header>
+    
+    <div class="ad-placeholder" id="ad-top" aria-hidden="true">Ad Space</div>
+    <main>
+      
+<article>
+  <h1>Under-Extrusion: Causes, Diagnosis, and Fixes</h1>
+  <p><strong>Affiliate Disclosure:</strong> Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.</p>
+<h1 id="under-extrusion-causes-diagnosis-and-fixes">Under-Extrusion: Causes, Diagnosis, and Fixes</h1>
+<p>3D printer under-extrusion means your printer isn&rsquo;t pushing out enough filament. You&rsquo;ll see gaps between lines, thin or missing layers, and weak infill. Your prints look incomplete and feel fragile. The most common causes are a clogged nozzle, wrong temperature, or an extruder that&rsquo;s slipping. Here&rsquo;s how to diagnose and fix it.</p>
+<h2 id="what-under-extrusion-looks-like">What Under-Extrusion Looks Like</h2>
+<p>Under-extrusion has several telltale signs:</p>
+<ul>
+<li><strong>Gaps between perimeter lines.</strong> You can see through the walls of your print.</li>
+<li><strong>Missing layers.</strong> Some layers look like they barely printed.</li>
+<li><strong>Thin, stringy infill.</strong> The infill pattern looks skeletal instead of solid.</li>
+<li><strong>Rough top surfaces.</strong> The top layers don&rsquo;t fill in completely.</li>
+<li><strong>Clicking from the extruder.</strong> The motor is trying to push filament but something is blocking it.</li>
+</ul>
+<p>If you see these symptoms, one of the causes below is responsible.</p>
+<h2 id="common-causes-of-under-extrusion">Common Causes of Under-Extrusion</h2>
+<h3 id="1-clogged-or-partially-clogged-nozzle">1. Clogged or Partially Clogged Nozzle</h3>
+<p>This is the most common cause. A partial clog restricts filament flow but doesn&rsquo;t stop it completely. You get inconsistent extrusion that comes and goes.</p>
+<p><strong>How to fix it:</strong></p>
+<ol>
+<li>Try a cold pull. Heat the nozzle to printing temp. Push filament through. Cool to 90C (PLA) or 160C (PETG/ABS). Pull the filament out firmly. The tip should show the inside shape of the nozzle. Repeat until clean.</li>
+<li>Use an acupuncture needle to clear the nozzle while hot.</li>
+<li>If cold pulls don&rsquo;t work, replace the nozzle. Brass nozzles are cheap. Keep spares.</li>
+</ol>
+<h3 id="2-printing-temperature-too-low">2. Printing Temperature Too Low</h3>
+<p>If the filament isn&rsquo;t hot enough, it won&rsquo;t flow easily through the nozzle. This is especially true at higher print speeds, where the filament spends less time in the melt zone.</p>
+<p><strong>How to fix it:</strong> Raise your temperature by 5-10C. If you recently increased your print speed, you probably need higher temps too.</p>
+<h3 id="3-extruder-gear-slipping">3. Extruder Gear Slipping</h3>
+<p>The extruder gear grips the filament and pushes it forward. If the gear is worn, the tension is too low, or filament dust has built up on the teeth, the gear will slip. You&rsquo;ll see shavings of filament near the extruder and hear clicking.</p>
+<p><strong>How to fix it:</strong></p>
+<ul>
+<li>Clean the gear teeth with a small brush.</li>
+<li>Increase the extruder tension (the spring or thumbscrew).</li>
+<li>Check if the gear is worn and replace it if the teeth are flat.</li>
+<li>If you have a stock plastic extruder, upgrade to a metal one. The plastic arm on Creality extruders is known to crack.</li>
+</ul>
+<h3 id="4-bowden-tube-gap">4. Bowden Tube Gap</h3>
+<p>On Bowden setups, the PTFE tube needs to sit flush against the back of the nozzle inside the hotend. If there&rsquo;s a gap, filament pools in that space. It creates back pressure, inconsistent flow, and eventually clogs.</p>
+<p><strong>How to fix it:</strong></p>
+<ul>
+<li>Remove the nozzle and PTFE tube. Clean out any accumulated filament.</li>
+<li>Cut the end of the PTFE tube flat with a tube cutter (not scissors).</li>
+<li>Reassemble by pushing the tube all the way down, then tightening the nozzle against it.</li>
+<li>Consider upgrading to an <a href="/blog/all-metal-hotend-upgrade/">all-metal hotend</a>. All-metal hotends eliminate the PTFE tube in the heat zone entirely, which means no more bowden gap issues.</li>
+</ul>
+<h3 id="5-filament-tangle">5. Filament Tangle</h3>
+<p>A tangled spool prevents filament from feeding smoothly. The extruder fights the tangle and either skips or under-extrudes. Tangles usually happen when the filament end slips under another wrap on the spool.</p>
+<p><strong>How to fix it:</strong> Always keep the filament end secured in the spool holder holes when not in use. If you find a tangle, unspool enough to free it. Check that the filament path from spool to extruder is smooth and not rubbing against anything.</p>
+<h3 id="6-worn-ptfe-tube">6. Worn PTFE Tube</h3>
+<p>The PTFE tube inside a Bowden system degrades over time, especially if you print at temperatures above 240C. The inner surface becomes rough, creating friction that restricts filament movement.</p>
+<p><strong>How to fix it:</strong> Replace the PTFE tube. Use Capricorn brand tubing for better heat resistance and a tighter inner diameter. Or upgrade to a <a href="/blog/direct-drive-vs-bowden/">direct drive system</a>, which is less prone to these issues because the filament path is much shorter.</p>
+<h3 id="7-wrong-e-steps">7. Wrong E-Steps</h3>
+<p>If your extruder steps per millimeter (e-steps) aren&rsquo;t calibrated, the printer might think it&rsquo;s pushing 100mm of filament when it&rsquo;s only pushing 95mm. That 5% shortfall shows up as under-extrusion.</p>
+<p><strong>How to fix it:</strong></p>
+<ol>
+<li>Mark your filament 120mm above the extruder inlet.</li>
+<li>Send G1 E100 F100 to extrude 100mm.</li>
+<li>Measure the remaining distance from the mark to the extruder.</li>
+<li>Calculate: New e-steps = (current e-steps x 100) / actual mm extruded.</li>
+<li>Save with M92 E[new value] and M500.</li>
+</ol>
+<h3 id="8-filament-diameter-variation">8. Filament Diameter Variation</h3>
+<p>Cheap filament can vary in diameter. If a section is thinner than 1.75mm, the extruder pushes less material than expected. Quality filament stays within +/- 0.02mm.</p>
+<p><strong>How to fix it:</strong> Measure your filament at several points with calipers. If it varies more than 0.05mm, that&rsquo;s a problem. Buy better filament.</p>
+<h2 id="bowden-vs-direct-drive-which-has-more-under-extrusion-issues">Bowden vs Direct Drive: Which Has More Under-Extrusion Issues?</h2>
+<p>Bowden tube setups are more prone to under-extrusion. The long tube creates friction, introduces potential gap issues, and makes retraction harder to tune. Direct drive systems have a short, direct filament path with fewer failure points.</p>
+<p>If under-extrusion is a constant battle with your Bowden printer, a <a href="/blog/direct-drive-vs-bowden/">direct drive conversion</a> might solve the problem permanently. It&rsquo;s one of the <a href="/blog/best-3d-printer-upgrades/">best upgrades</a> you can make for extrusion reliability.</p>
+<p>That said, plenty of Bowden printers work great when properly maintained. Don&rsquo;t assume you need to convert. Fix the basics first.</p>
+<h2 id="dry-your-filament">Dry Your Filament</h2>
+<p>Wet filament can mimic under-extrusion. Moisture creates steam bubbles that interrupt the flow of filament. If you hear popping sounds while printing and see inconsistent extrusion, moisture is likely the culprit.</p>
+<p>Our <a href="/blog/filament-drying-guide/">filament drying guide</a> covers drying temperatures and times for every material type.</p>
+<h2 id="faq">FAQ</h2>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my 3D printer is under-extruding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for gaps between perimeter lines, missing or thin layers, skeletal infill patterns, and rough top surfaces. Print a single-wall cube and measure the wall thickness. If it's significantly thinner than your slicer's line width setting, you're under-extruding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can under-extrusion cause weak prints?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Under-extrusion creates gaps between lines and layers, which reduces the bonding area. This makes prints significantly weaker, especially along the layer lines. Fixing under-extrusion improves both appearance and structural strength."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between under-extrusion and a clogged nozzle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A clogged nozzle is one cause of under-extrusion, but under-extrusion can also be caused by wrong temperature, extruder gear problems, filament tangles, or incorrect e-steps. A full clog stops all extrusion. A partial clog causes inconsistent under-extrusion that varies throughout the print."
+      }
+    }
+  ]
+}
+</script>
+<h3 id="how-do-i-know-if-my-3d-printer-is-under-extruding">How do I know if my 3D printer is under-extruding?</h3>
+<p>Look for gaps between perimeter lines, missing or thin layers, skeletal infill patterns, and rough top surfaces. Print a single-wall cube and measure the wall thickness. If it&rsquo;s significantly thinner than your slicer&rsquo;s line width setting, you&rsquo;re under-extruding.</p>
+<h3 id="can-under-extrusion-cause-weak-prints">Can under-extrusion cause weak prints?</h3>
+<p>Yes. Under-extrusion creates gaps between lines and layers, which reduces the bonding area. This makes prints significantly weaker, especially along the layer lines. Fixing under-extrusion improves both appearance and structural strength.</p>
+<h3 id="whats-the-difference-between-under-extrusion-and-a-clogged-nozzle">What&rsquo;s the difference between under-extrusion and a clogged nozzle?</h3>
+<p>A clogged nozzle is one cause of under-extrusion, but under-extrusion can also be caused by wrong temperature, extruder gear problems, filament tangles, or incorrect e-steps. A full clog stops all extrusion. A partial clog causes inconsistent under-extrusion that varies throughout the print.</p>
+<p>For a complete overview of print problems and fixes, see our <a href="/blog/3d-print-troubleshooting/">3D print troubleshooting master guide</a>.</p>
+
+</article>
+
+    </main>
+    
+    <div class="ad-placeholder" id="ad-bottom" aria-hidden="true">Ad Space</div>
+    <footer>
+      <p>&copy; 2026 PrintUpgraded. All rights reserved.</p>
+      <p>
+        <a href="/privacy/">Privacy Policy</a> &middot;
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </p>
+      <p>Some links on this site are affiliate links. We may earn a commission if you make a purchase.</p>
+    </footer>
+  </div>
+</body>
+</html>

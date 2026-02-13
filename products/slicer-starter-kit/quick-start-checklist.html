@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quick-Start Checklist - PrintUpgraded</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.5in;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1a2e;
+    background: #fff;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.4in;
+    font-size: 10pt;
+    line-height: 1.5;
+  }
+  .header {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+    border-bottom: 3px solid #1a1a2e;
+  }
+  .header h1 {
+    font-size: 20pt;
+    font-weight: 800;
+    color: #1a1a2e;
+    margin-bottom: 4px;
+  }
+  .header p {
+    font-size: 9pt;
+    color: #555;
+  }
+  h2 {
+    font-size: 13pt;
+    font-weight: 700;
+    color: #fff;
+    background: #1a1a2e;
+    padding: 6px 12px;
+    border-radius: 6px;
+    margin-top: 14px;
+    margin-bottom: 8px;
+  }
+  h3 {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #2d2d5e;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    padding-left: 4px;
+  }
+  .material-tag {
+    display: inline-block;
+    font-size: 8pt;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .tag-pla { background: #d4edda; color: #1a5c2e; }
+  .tag-petg { background: #fff3cd; color: #7a6300; }
+  .tag-tpu { background: #d6eaf8; color: #1a4a7a; }
+  .tag-all { background: #e8e8ee; color: #1a1a2e; }
+
+  .checklist {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0;
+  }
+  .checklist li {
+    padding: 4px 0 4px 28px;
+    position: relative;
+    font-size: 10pt;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .checklist li:last-child {
+    border-bottom: none;
+  }
+  .checklist li::before {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 5px;
+    width: 14px;
+    height: 14px;
+    border: 2px solid #999;
+    border-radius: 3px;
+    background: #fff;
+  }
+  .checklist li .note {
+    font-size: 8.5pt;
+    color: #777;
+    display: block;
+    margin-top: 1px;
+  }
+
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 10px 0;
+  }
+  .col-box {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 8px 10px;
+  }
+  .col-box h4 {
+    font-size: 10pt;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 6px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  .col-pla { border-top: 3px solid #2d8a4e; }
+  .col-petg { border-top: 3px solid #d4a017; }
+  .col-tpu { border-top: 3px solid #2e86c1; }
+  .col-box .checklist li { font-size: 9pt; padding: 3px 0 3px 24px; }
+  .col-box .checklist li::before { width: 12px; height: 12px; top: 4px; }
+
+  .page-footer {
+    margin-top: 14px;
+    padding-top: 8px;
+    border-top: 2px solid #1a1a2e;
+    display: flex;
+    justify-content: space-between;
+    font-size: 8.5pt;
+    color: #777;
+  }
+  .page-footer strong { color: #1a1a2e; }
+
+  @media print {
+    body { padding: 0; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>First Print Quick-Start Checklist</h1>
+  <p>Follow this checklist before, during, and after every print. Check the boxes as you go.</p>
+</div>
+
+<h2>1. Pre-Print Checks <span class="material-tag tag-all">All Materials</span></h2>
+
+<ul class="checklist">
+  <li>Bed is level (paper test or auto-level run within last 5 prints)
+    <span class="note">If prints aren't sticking or first layer looks uneven, re-level first.</span>
+  </li>
+  <li>Build surface is clean (wipe with IPA or warm water)</li>
+  <li>Nozzle is clean and not clogged (extrude 50mm of filament to check flow)</li>
+  <li>Filament loaded and feeding smoothly through the extruder</li>
+  <li>Filament is dry (check for popping/crackling sounds during extrusion)
+    <span class="note">PETG, TPU, and Nylon are moisture-sensitive. Dry before printing if stored open.</span>
+  </li>
+  <li>PTFE tube seated properly (Bowden setups only)</li>
+  <li>Belts are tight (no slack when you pluck them, should "twang")</li>
+  <li>No loose screws on printhead, bed, or frame</li>
+</ul>
+
+<h2>2. Slicer Settings to Verify <span class="material-tag tag-all">Before You Slice</span></h2>
+
+<div class="columns">
+  <div class="col-box col-pla">
+    <h4>PLA</h4>
+    <ul class="checklist">
+      <li>Nozzle: 205C</li>
+      <li>Bed: 60C</li>
+      <li>Speed: 50 mm/s</li>
+      <li>Fan: 100%</li>
+      <li>Retraction: 5mm</li>
+      <li>Adhesion: skirt</li>
+    </ul>
+  </div>
+  <div class="col-box col-petg">
+    <h4>PETG</h4>
+    <ul class="checklist">
+      <li>Nozzle: 235C</li>
+      <li>Bed: 80C</li>
+      <li>Speed: 40 mm/s</li>
+      <li>Fan: 40%</li>
+      <li>Retraction: 3.5mm</li>
+      <li>Z-hop: ON (0.2mm)</li>
+    </ul>
+  </div>
+  <div class="col-box col-tpu">
+    <h4>TPU (95A)</h4>
+    <ul class="checklist">
+      <li>Nozzle: 220C</li>
+      <li>Bed: 50C</li>
+      <li>Speed: 20 mm/s</li>
+      <li>Fan: 50%</li>
+      <li>Retraction: OFF</li>
+      <li>Adhesion: brim</li>
+    </ul>
+  </div>
+</div>
+
+<ul class="checklist">
+  <li>Correct printer profile selected (check bed size and nozzle diameter)</li>
+  <li>Layer height matches your goal (0.2mm standard, 0.12mm detail, 0.28mm fast)</li>
+  <li>Infill set appropriately (20% general, 40%+ functional, 10% decorative)</li>
+  <li>Supports enabled if needed (overhangs greater than 50 degrees)</li>
+  <li>Preview the sliced file and check first layer, supports, and travel moves</li>
+</ul>
+
+<h2>3. First Layer Watch List <span class="material-tag tag-all">First 2-3 Minutes</span></h2>
+
+<p style="margin-bottom: 8px; font-size: 9.5pt; color: #555;">Stay and watch the first layer. Most failed prints show signs in the first minute.</p>
+
+<ul class="checklist">
+  <li>Filament is sticking to the bed (not curling up around the nozzle)</li>
+  <li>Lines are slightly squished, not round (round = nozzle too high)</li>
+  <li>No gaps between first layer lines (gaps = nozzle too high or under-extrusion)</li>
+  <li>No filament piling up or dragging (piling = nozzle too low)</li>
+  <li>Skirt/brim looks even and consistent around the full perimeter</li>
+  <li>No weird sounds (clicking = extruder grinding, could be a clog or too cold)</li>
+  <li>Second and third layers go down smoothly on top of the first</li>
+</ul>
+
+<h2>4. Mid-Print Checks <span class="material-tag tag-all">Optional but Smart</span></h2>
+
+<ul class="checklist">
+  <li>No stringing between parts (if yes, check retraction settings for next print)</li>
+  <li>Layers look consistent (no shifting, no gaps, no blobs)</li>
+  <li>Supports are building correctly (if enabled)</li>
+  <li>No layer shifting (horizontal lines not matching up = belt or speed issue)</li>
+  <li>Filament spool is feeding freely (not tangled, not caught on the holder)</li>
+</ul>
+
+<h2>5. Post-Print Steps <span class="material-tag tag-all">After Completion</span></h2>
+
+<ul class="checklist">
+  <li>Let the bed cool before removing the print (especially PEI surfaces)</li>
+  <li>Remove print gently (flex the build plate or use a scraper at a low angle)</li>
+  <li>Remove supports carefully (flush cutters or needle-nose pliers work best)</li>
+  <li>Remove brim/raft if used (snap off, clean edges with a craft knife)</li>
+  <li>Inspect for quality issues and note any changes needed for next time</li>
+  <li>Clean the build surface (remove any leftover filament bits)</li>
+  <li>Store remaining filament in a sealed bag with desiccant</li>
+</ul>
+
+<div class="page-footer">
+  <span><strong>PrintUpgraded</strong> Slicer Starter Kit | printupgraded.github.io</span>
+  <span>v1.0 | February 2026 | Print this and keep it by your printer</span>
+</div>
+
+</body>
+</html>

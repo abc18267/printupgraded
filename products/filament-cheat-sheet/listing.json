@@ -1,0 +1,30 @@
+{
+  "name": "Filament Temperature Cheat Sheet",
+  "slug": "filament-cheat-sheet",
+  "niche": "3D printer filament settings",
+  "site_id": "site-001",
+  "type": "cheat-sheet",
+  "price": "$0",
+  "format": "PDF (1 page)",
+  "platform": "Gumroad (pay-what-you-want at $0)",
+  "listing_title": "Filament Temperature Cheat Sheet - Print Settings for 6 Common Materials",
+  "listing_description": "Stop guessing your print settings. This one-page cheat sheet gives you the exact nozzle temps, bed temps, speeds, and cooling settings for PLA, PETG, ABS, TPU, ASA, and Nylon. Color-coded by difficulty. Print it out and stick it next to your printer.\n\nIncludes tuning tips, storage reminders, and a pre-print checklist. Works with any FDM printer and any slicer.",
+  "bullet_points": [
+    "Nozzle and bed temperatures for 6 popular filament types",
+    "Print speed and cooling fan settings for each material",
+    "Color-coded by difficulty so you know what you're getting into",
+    "Tuning tips: how to adjust temps based on what you see",
+    "Storage reminders so your filament stays dry and printable",
+    "Print-friendly single page, fits right next to your printer"
+  ],
+  "tags": ["3d printing", "filament", "temperature guide", "cheat sheet", "PLA", "PETG", "ABS", "TPU"],
+  "cta": "Download Free Cheat Sheet",
+  "cross_promote_articles": [
+    "pla-vs-petg-vs-abs",
+    "how-to-print-petg",
+    "how-to-print-tpu",
+    "best-pla-filament"
+  ],
+  "created_at": "2026-02-13T00:00:00Z",
+  "status": "draft"
+}

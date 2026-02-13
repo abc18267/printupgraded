@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elephant&#39;s Foot on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/elephants-foot/</link>
+    <description>Recent content in Elephant&#39;s Foot on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/elephants-foot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elephant&#39;s Foot and Other First Layer Issues Explained</title>
+      <link>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;elephants-foot-and-other-first-layer-issues-explained&#34;&gt;Elephant&amp;rsquo;s Foot and Other First Layer Issues Explained&lt;/h1&gt;&#xA;&lt;p&gt;Elephant&amp;rsquo;s foot in 3D printing is when the first layer or two of your print bulge outward. The bottom of the part ends up wider than the rest. It&amp;rsquo;s named after what it looks like: a flat, flared base, similar to an elephant&amp;rsquo;s foot. The main causes are a Z offset that&amp;rsquo;s too close, a bed temperature that&amp;rsquo;s too high, or too much weight pressing down on a hot first layer. Here&amp;rsquo;s how to fix it and other first layer problems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

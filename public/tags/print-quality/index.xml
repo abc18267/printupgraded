@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Print Quality on PrintUpgraded</title>
+    <title>Print-Quality on PrintUpgraded</title>
     <link>https://abc18267.github.io/printupgraded/tags/print-quality/</link>
-    <description>Recent content in Print Quality on PrintUpgraded</description>
+    <description>Recent content in Print-Quality on PrintUpgraded</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,20 @@
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/blog/filament-drying-guide/</guid>
       <description>&lt;h1 id=&#34;filament-drying-guide-why-it-matters-and-how-to-do-it-right&#34;&gt;Filament Drying Guide: Why It Matters and How to Do It Right&lt;/h1&gt;&#xA;&lt;p&gt;Wet filament is one of the most common causes of bad 3D prints. If your prints have rough surfaces, popping sounds, stringing, or weak layers, moisture is probably the problem. Filament drying is simple. You just need to apply gentle heat for a few hours. This guide covers why it matters, how to spot the signs, and the best ways to dry and store your filament.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Print Speed vs Quality: Finding the Right Balance</title>
+      <link>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;print-speed-vs-quality-finding-the-right-balance&#34;&gt;Print Speed vs Quality: Finding the Right Balance&lt;/h1&gt;&#xA;&lt;p&gt;The relationship between 3D print speed vs quality isn&amp;rsquo;t as simple as &amp;ldquo;slower is better.&amp;rdquo; The sweet spot for most printers is 40-60 mm/s for high-quality prints and 80-120 mm/s for everyday prints. Modern printers with input shaper and pressure advance can push 150-300 mm/s without losing much quality. The right speed depends on your printer, your material, and how much quality you actually need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support Settings Guide: When and How to Use Supports</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;support-settings-guide-when-and-how-to-use-supports&#34;&gt;Support Settings Guide: When and How to Use Supports&lt;/h1&gt;&#xA;&lt;p&gt;Getting your 3D print support settings right is the difference between clean prints and damaged ones. You need supports when your model has overhangs greater than 45 degrees from vertical. The best approach for most prints is tree or organic supports with 2-3 interface layers at 15% density. This gives you strong support that still removes cleanly.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

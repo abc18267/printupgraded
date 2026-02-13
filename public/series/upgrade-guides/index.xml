@@ -30,6 +30,13 @@
       <description>&lt;h1 id=&#34;best-3d-printer-upgrades-that-actually-matter&#34;&gt;Best 3D Printer Upgrades That Actually Matter&lt;/h1&gt;&#xA;&lt;p&gt;Most lists of best 3D printer upgrades throw 20 items at you with no clear order. That&amp;rsquo;s not helpful. Some upgrades make a massive difference. Others are a waste of money. This guide ranks the upgrades that actually improve your prints, in the order you should install them.&lt;/p&gt;&#xA;&lt;p&gt;If you own a budget printer like an Ender 3, CR-10, or Anycubic Kobra, these upgrades will get you closer to results you&amp;rsquo;d expect from a machine costing twice as much.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Best LED Lighting for Your 3D Printer Setup</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-printer-led-lighting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-printer-led-lighting/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-led-lighting-for-your-3d-printer-setup&#34;&gt;Best LED Lighting for Your 3D Printer Setup&lt;/h1&gt;&#xA;&lt;p&gt;Good 3D printer lighting makes a bigger difference than you&amp;rsquo;d expect. You can spot stringing, layer issues, and adhesion problems in real time instead of discovering them after a 12-hour print. If you shoot timelapses, proper lighting is the difference between a blurry mess and a clean video. Luckily, adding LEDs to your printer is cheap and takes about 15 minutes.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?</title>
       <link>https://abc18267.github.io/printupgraded/blog/direct-drive-vs-bowden/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -37,11 +44,25 @@
       <description>&lt;h1 id=&#34;direct-drive-vs-bowden-extruder-which-is-better-for-your-printer&#34;&gt;Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing direct drive vs Bowden, here&amp;rsquo;s the short answer. Bowden is better for speed. Direct drive is better for filament variety and print quality. If you want to print flexible filaments like TPU, direct drive is almost mandatory. If you only print PLA at high speeds, Bowden works great.&lt;/p&gt;&#xA;&lt;p&gt;Most budget printers come with Bowden setups. Many people upgrade to direct drive after hitting the limits of what Bowden can do. Let&amp;rsquo;s look at why.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Klipper vs Marlin Firmware: Which Should You Use?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;klipper-vs-marlin-firmware-which-should-you-use&#34;&gt;Klipper vs Marlin Firmware: Which Should You Use?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re choosing between Klipper vs Marlin, here&amp;rsquo;s the short answer. Marlin is simpler and works great out of the box. Klipper is more powerful but requires a Raspberry Pi and more setup. If you want to push your printer faster, use pressure advance, or control everything from a web browser, go Klipper. If you just want reliable prints without extra hardware, stick with Marlin.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?</title>
       <link>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We earn a small commission if you buy through them. This doesn&amp;rsquo;t cost you extra and doesn&amp;rsquo;t affect our recommendations. See our &lt;a href=&#34;https://abc18267.github.io/printupgraded/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h1 id=&#34;pei-build-plate-vs-glass-vs-magnetic-which-print-surface-wins&#34;&gt;PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?&lt;/h1&gt;&#xA;&lt;p&gt;Comparing a PEI build plate vs glass? PEI wins for most people. It gives you strong adhesion when hot and easy part removal when cool. Glass is flatter and gives a smooth bottom finish, but parts can be hard to remove. Magnetic flex plates are convenient but wear out faster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet</title>
+      <link>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tmc2209-stepper-driver-upgrade-make-your-printer-whisper-quiet&#34;&gt;TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet&lt;/h1&gt;&#xA;&lt;p&gt;A TMC2209 stepper driver upgrade is one of the best things you can do if your 3D printer sounds like an angry robot. Stock stepper drivers on budget printers are loud. Really loud. Swapping them for TMC2209 drivers can drop your noise levels by up to 90%. Your printer won&amp;rsquo;t be silent. But it&amp;rsquo;ll go from &amp;ldquo;screaming in the next room&amp;rdquo; to &amp;ldquo;quiet hum at your desk.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

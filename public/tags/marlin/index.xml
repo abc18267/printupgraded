@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marlin on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/marlin/</link>
+    <description>Recent content in Marlin on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/marlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klipper vs Marlin Firmware: Which Should You Use?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;klipper-vs-marlin-firmware-which-should-you-use&#34;&gt;Klipper vs Marlin Firmware: Which Should You Use?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re choosing between Klipper vs Marlin, here&amp;rsquo;s the short answer. Marlin is simpler and works great out of the box. Klipper is more powerful but requires a Raspberry Pi and more setup. If you want to push your printer faster, use pressure advance, or control everything from a web browser, go Klipper. If you just want reliable prints without extra hardware, stick with Marlin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

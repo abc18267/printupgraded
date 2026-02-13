@@ -9,6 +9,20 @@
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://abc18267.github.io/printupgraded/tags/bed-adhesion/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D Print Warping: Causes and Fixes That Work</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;3d-print-warping-causes-and-fixes-that-work&#34;&gt;3D Print Warping: Causes and Fixes That Work&lt;/h1&gt;&#xA;&lt;p&gt;3D print warping happens when the corners or edges of your print curl up from the bed. It&amp;rsquo;s one of the most common and frustrating problems in 3D printing. The fix depends on your material, your environment, and your bed setup. In most cases, you can stop warping completely with the right combination of bed temperature, adhesion helpers, and environmental control.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;first-layer-not-sticking-heres-how-to-fix-bed-adhesion&#34;&gt;First Layer Not Sticking? Here&amp;rsquo;s How to Fix Bed Adhesion&lt;/h1&gt;&#xA;&lt;p&gt;If your first layer won&amp;rsquo;t stick, nothing else matters. The whole print will fail. 3D print bed adhesion problems are the most common issue beginners face. In most cases, the fix is simple: your bed isn&amp;rsquo;t level, your Z offset is wrong, or your build surface is dirty. Let&amp;rsquo;s walk through every cause and fix.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?</title>
       <link>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion - PrintUpgraded</title>
+  <meta name="description" content="Fix 3D print bed adhesion problems with this step-by-step guide to leveling, Z offset, bed temp, and surface prep">
+  <meta property="og:title" content="First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion">
+  <meta property="og:description" content="Fix 3D print bed adhesion problems with this step-by-step guide to leveling, Z offset, bed temp, and surface prep">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="PrintUpgraded">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion">
+  <meta name="twitter:description" content="Fix 3D print bed adhesion problems with this step-by-step guide to leveling, Z offset, bed temp, and surface prep">
+  <link rel="canonical" href="https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/">
+  <link rel="sitemap" type="application/xml" href="https://abc18267.github.io/printupgraded/sitemap.xml">
+  
+  <style>
+    :root { --max-width: 720px; --text: #1a1a1a; --bg: #fff; --accent: #0066cc; --muted: #666; --border: #e5e5e5; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); line-height: 1.7; font-size: 17px; }
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+    header { border-bottom: 1px solid var(--border); padding: 1.5rem 0; margin-bottom: 2rem; }
+    .site-title { color: var(--text); text-decoration: none; font-weight: 700; font-size: 1.25rem; }
+    .site-tagline { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 0.15rem; }
+    nav { margin-top: 0.5rem; }
+    nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; font-size: 0.9rem; }
+    nav a:hover { color: var(--accent); }
+    main { padding-bottom: 3rem; }
+    h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    p { margin-bottom: 1rem; }
+    a { color: var(--accent); }
+    ul, ol { margin-bottom: 1rem; padding-left: 1.5rem; }
+    li { margin-bottom: 0.25rem; }
+    img { max-width: 100%; height: auto; }
+    .post-meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .post-list a { text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+    .post-list .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
+    .post-list .date { color: var(--muted); font-size: 0.85rem; }
+    .ad-placeholder { background: var(--bg); border: 1px dashed var(--border); padding: 1rem; text-align: center; color: var(--muted); font-size: 0.8rem; margin: 2rem 0; min-height: 90px; display: none; }
+    .disclosure { background: #f9f9f9; border-left: 3px solid var(--accent); padding: 0.75rem 1rem; font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+    footer { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; text-align: center; }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+    @media (max-width: 600px) { body { font-size: 16px; } h1 { font-size: 1.6rem; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="site-title" href="/">PrintUpgraded</a>
+      <span class="site-tagline">Better prints start here.</span>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </nav>
+    </header>
+    
+    <div class="ad-placeholder" id="ad-top" aria-hidden="true">Ad Space</div>
+    <main>
+      
+<article>
+  <h1>First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion</h1>
+  <p><strong>Affiliate Disclosure:</strong> Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.</p>
+<h1 id="first-layer-not-sticking-heres-how-to-fix-bed-adhesion">First Layer Not Sticking? Here&rsquo;s How to Fix Bed Adhesion</h1>
+<p>If your first layer won&rsquo;t stick, nothing else matters. The whole print will fail. 3D print bed adhesion problems are the most common issue beginners face. In most cases, the fix is simple: your bed isn&rsquo;t level, your Z offset is wrong, or your build surface is dirty. Let&rsquo;s walk through every cause and fix.</p>
+<h2 id="why-your-first-layer-wont-stick">Why Your First Layer Won&rsquo;t Stick</h2>
+<p>The first layer needs three things to stick properly:</p>
+<ol>
+<li><strong>The right distance between nozzle and bed.</strong> Too far and the filament doesn&rsquo;t press down onto the surface. Too close and the nozzle scrapes the filament away.</li>
+<li><strong>Enough heat.</strong> The bed needs to be warm enough to keep the filament soft while it bonds to the surface.</li>
+<li><strong>A clean, appropriate surface.</strong> Oils from your fingers, dust, and residue all prevent adhesion.</li>
+</ol>
+<p>Let&rsquo;s fix each one.</p>
+<h2 id="step-by-step-diagnostic">Step-by-Step Diagnostic</h2>
+<h3 id="step-1-level-your-bed">Step 1: Level Your Bed</h3>
+<p>An unlevel bed means some areas are too close and others are too far. Most printers use manual leveling with four corner knobs.</p>
+<p>Here&rsquo;s the process:</p>
+<ol>
+<li>Home all axes.</li>
+<li>Disable steppers so you can move the head by hand.</li>
+<li>Move the nozzle to each corner.</li>
+<li>Slide a piece of paper between the nozzle and bed. You should feel slight resistance when pulling it. The paper should slide but not freely.</li>
+<li>Adjust the corner knob until you get that feel.</li>
+<li>Repeat all four corners twice. Adjusting one corner affects the others.</li>
+</ol>
+<p>If your printer has automatic bed leveling (ABL), run the probe calibration. ABL compensates for an uneven bed but it doesn&rsquo;t replace setting the correct Z offset.</p>
+<h3 id="step-2-set-your-z-offset">Step 2: Set Your Z Offset</h3>
+<p>Even with a level bed, the Z offset might be wrong. The Z offset tells the printer exactly how far the nozzle is from the bed when it&rsquo;s at &ldquo;zero.&rdquo;</p>
+<p>Print a single-layer square (about 50x50mm). Look at the result:</p>
+<ul>
+<li><strong>Lines not touching each other:</strong> Z offset is too high. Lower it (make the number more negative).</li>
+<li><strong>Lines squished into a smooth sheet:</strong> Z offset is too low. Raise it slightly.</li>
+<li><strong>Lines touching but slightly flat:</strong> Perfect. That&rsquo;s what you want.</li>
+</ul>
+<p>Adjust in 0.02mm increments. Small changes make a big difference. Our <a href="/blog/best-cura-settings-pla/">best Cura settings for PLA</a> guide covers first layer settings in detail.</p>
+<h3 id="step-3-check-your-bed-temperature">Step 3: Check Your Bed Temperature</h3>
+<p>Every material needs a specific bed temperature:</p>
+<ul>
+<li>PLA: 55-65C</li>
+<li>PETG: 75-85C</li>
+<li>ABS: 100-110C</li>
+<li>TPU: 45-60C</li>
+<li>Nylon: 70-80C</li>
+</ul>
+<p>If you&rsquo;re below these ranges, bump up the temperature. Give the bed 5 minutes to fully heat soak before printing. The surface temperature lags behind the thermistor reading.</p>
+<h3 id="step-4-clean-your-build-surface">Step 4: Clean Your Build Surface</h3>
+<p>This is the fix people overlook. Fingerprints leave oils that create a invisible barrier between filament and bed. Even touching the build surface once can cause adhesion issues in that spot.</p>
+<p>Clean your bed with isopropyl alcohol (IPA) at 90% concentration or higher. Wipe it down before every print. For glass beds, dish soap and warm water works even better.</p>
+<p>For PEI surfaces, clean with IPA regularly. If adhesion drops even after cleaning, lightly sand the surface with 1000-grit sandpaper. This refreshes the texture.</p>
+<h3 id="step-5-match-your-surface-to-your-material">Step 5: Match Your Surface to Your Material</h3>
+<p>Not every build surface works with every material. Here&rsquo;s what works best:</p>
+<ul>
+<li><strong>PEI (smooth):</strong> Great for PLA and ABS. PETG sticks too well and can damage the surface.</li>
+<li><strong>PEI (textured):</strong> Great for PETG, good for PLA. The texture prevents PETG from bonding permanently.</li>
+<li><strong>Glass:</strong> Works for PLA with glue stick. Good for ABS with ABS juice.</li>
+<li><strong>Magnetic flex plates:</strong> Convenient but vary in quality. Look for PEI-coated versions.</li>
+</ul>
+<p>For a full comparison, read our guide on <a href="/blog/pei-vs-glass-vs-magnetic-build-plate/">PEI vs glass vs magnetic build plates</a>.</p>
+<h2 id="adhesion-aids-when-to-use-them">Adhesion Aids: When to Use Them</h2>
+<p>Sometimes a clean, level bed with the right temperature still isn&rsquo;t enough. That&rsquo;s when adhesion aids help.</p>
+<p><strong>Glue stick.</strong> The classic choice. Apply a thin, even layer. Works great for PLA on glass and PETG on smooth PEI (also acts as a release agent so PETG doesn&rsquo;t bond permanently).</p>
+<p><strong>Hairspray.</strong> Use unscented, extra-hold hairspray. Apply a light coat. Works for PLA and ABS. Can build up over time and needs cleaning.</p>
+<p><strong>Painter&rsquo;s tape.</strong> Blue painter&rsquo;s tape works well for PLA without a heated bed. Clean the tape with IPA first.</p>
+<p><strong>Specialty adhesives.</strong> Products like Magigoo and Vision Miner Nano Polymer work well but cost more. They&rsquo;re worth it if you print a lot of tricky materials.</p>
+<p>The goal is to not need adhesion aids. If your setup requires glue on every print, the underlying issue (leveling, temperature, or surface type) probably isn&rsquo;t solved yet.</p>
+<h2 id="first-layer-speed-and-settings">First Layer Speed and Settings</h2>
+<p>Your first layer should print differently from the rest:</p>
+<ul>
+<li><strong>Speed:</strong> 20-25mm/s. Slow and steady.</li>
+<li><strong>Layer height:</strong> 0.28-0.3mm for a 0.4mm nozzle. A thicker first layer is more forgiving.</li>
+<li><strong>Line width:</strong> 120-150% of nozzle diameter. A wider first layer squishes more material onto the bed.</li>
+<li><strong>Flow:</strong> 100-105%. A slight bump in flow for the first layer helps.</li>
+<li><strong>Fan:</strong> Off for the first 1-3 layers. Cooling the first layer hurts adhesion.</li>
+</ul>
+<h2 id="faq">FAQ</h2>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my first layer stick in some spots but not others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This almost always means your bed isn't level or the bed surface is warped. Re-level all four corners carefully. If the bed itself is warped (common on cheaper printers), use mesh bed leveling in firmware to compensate. A glass sheet placed on top of a warped aluminum bed can also help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a brim or a raft for better bed adhesion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A brim adds extra first-layer material around the outside of your print. It's the best option for most adhesion problems. A raft is a full platform printed under your model. Use a raft only when the bed surface is very uneven or when the model has tiny contact points with the bed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I clean my 3D printer bed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean with isopropyl alcohol before every print for best results. A quick wipe takes 10 seconds and prevents most adhesion failures. Deep clean with soap and water once a week if you print daily. Avoid touching the print surface with bare hands after cleaning."
+      }
+    }
+  ]
+}
+</script>
+<h3 id="why-does-my-first-layer-stick-in-some-spots-but-not-others">Why does my first layer stick in some spots but not others?</h3>
+<p>This almost always means your bed isn&rsquo;t level or the bed surface is warped. Re-level all four corners carefully. If the bed itself is warped (common on cheaper printers), use mesh bed leveling in firmware to compensate. A glass sheet placed on top of a warped aluminum bed can also help.</p>
+<h3 id="should-i-use-a-brim-or-a-raft-for-better-bed-adhesion">Should I use a brim or a raft for better bed adhesion?</h3>
+<p>A brim adds extra first-layer material around the outside of your print. It&rsquo;s the best option for most adhesion problems. A raft is a full platform printed under your model. Use a raft only when the bed surface is very uneven or when the model has tiny contact points with the bed.</p>
+<h3 id="how-often-should-i-clean-my-3d-printer-bed">How often should I clean my 3D printer bed?</h3>
+<p>Clean with isopropyl alcohol before every print for best results. A quick wipe takes 10 seconds and prevents most adhesion failures. Deep clean with soap and water once a week if you print daily. Avoid touching the print surface with bare hands after cleaning.</p>
+<p>For more troubleshooting help, visit our <a href="/blog/3d-print-troubleshooting/">3D print troubleshooting master guide</a>.</p>
+
+</article>
+
+    </main>
+    
+    <div class="ad-placeholder" id="ad-bottom" aria-hidden="true">Ad Space</div>
+    <footer>
+      <p>&copy; 2026 PrintUpgraded. All rights reserved.</p>
+      <p>
+        <a href="/privacy/">Privacy Policy</a> &middot;
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </p>
+      <p>Some links on this site are affiliate links. We may earn a commission if you make a purchase.</p>
+    </footer>
+  </div>
+</body>
+</html>

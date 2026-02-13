@@ -9,10 +9,45 @@
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://abc18267.github.io/printupgraded/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3d-Printing-Basics</title>
+      <link>https://abc18267.github.io/printupgraded/tags/3d-printing-basics/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/3d-printing-basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3d-Printing-Software</title>
+      <link>https://abc18267.github.io/printupgraded/tags/3d-printing-software/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/3d-printing-software/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ABS</title>
       <link>https://abc18267.github.io/printupgraded/tags/abs/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/abs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acceleration</title>
+      <link>https://abc18267.github.io/printupgraded/tags/acceleration/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessories</title>
+      <link>https://abc18267.github.io/printupgraded/tags/accessories/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASA</title>
+      <link>https://abc18267.github.io/printupgraded/tags/asa/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/asa/</guid>
       <description></description>
     </item>
     <item>
@@ -23,7 +58,7 @@
       <description></description>
     </item>
     <item>
-      <title>Beginner Guide</title>
+      <title>Beginner-Guide</title>
       <link>https://abc18267.github.io/printupgraded/tags/beginner-guide/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/beginner-guide/</guid>
@@ -44,6 +79,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cura</title>
+      <link>https://abc18267.github.io/printupgraded/tags/cura/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/cura/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Direct Drive</title>
       <link>https://abc18267.github.io/printupgraded/tags/direct-drive/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -58,6 +100,13 @@
       <description></description>
     </item>
     <item>
+      <title>Elephant&#39;s Foot</title>
+      <link>https://abc18267.github.io/printupgraded/tags/elephants-foot/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/elephants-foot/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Enclosure</title>
       <link>https://abc18267.github.io/printupgraded/tags/enclosure/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -65,10 +114,24 @@
       <description></description>
     </item>
     <item>
+      <title>Engineering Filament</title>
+      <link>https://abc18267.github.io/printupgraded/tags/engineering-filament/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/engineering-filament/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Extruder</title>
       <link>https://abc18267.github.io/printupgraded/tags/extruder/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/extruder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extrusion Problems</title>
+      <link>https://abc18267.github.io/printupgraded/tags/extrusion-problems/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/extrusion-problems/</guid>
       <description></description>
     </item>
     <item>
@@ -107,6 +170,27 @@
       <description></description>
     </item>
     <item>
+      <title>Firmware</title>
+      <link>https://abc18267.github.io/printupgraded/tags/firmware/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/firmware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Layer</title>
+      <link>https://abc18267.github.io/printupgraded/tags/first-layer/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/first-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fixes</title>
+      <link>https://abc18267.github.io/printupgraded/tags/fixes/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/fixes/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Flexible Filament</title>
       <link>https://abc18267.github.io/printupgraded/tags/flexible-filament/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -142,6 +226,13 @@
       <description></description>
     </item>
     <item>
+      <title>Infill</title>
+      <link>https://abc18267.github.io/printupgraded/tags/infill/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/infill/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Klipper</title>
       <link>https://abc18267.github.io/printupgraded/tags/klipper/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -149,10 +240,31 @@
       <description></description>
     </item>
     <item>
+      <title>Layer Adhesion</title>
+      <link>https://abc18267.github.io/printupgraded/tags/layer-adhesion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/layer-adhesion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LED Lighting</title>
+      <link>https://abc18267.github.io/printupgraded/tags/led-lighting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/led-lighting/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Magnetic Build Plate</title>
       <link>https://abc18267.github.io/printupgraded/tags/magnetic-build-plate/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/magnetic-build-plate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marlin</title>
+      <link>https://abc18267.github.io/printupgraded/tags/marlin/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/marlin/</guid>
       <description></description>
     </item>
     <item>
@@ -174,6 +286,55 @@
       <link>https://abc18267.github.io/printupgraded/tags/mods/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/mods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noise Reduction</title>
+      <link>https://abc18267.github.io/printupgraded/tags/noise-reduction/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/noise-reduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nylon</title>
+      <link>https://abc18267.github.io/printupgraded/tags/nylon/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/nylon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orcaslicer</title>
+      <link>https://abc18267.github.io/printupgraded/tags/orcaslicer/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/orcaslicer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outdoor Prints</title>
+      <link>https://abc18267.github.io/printupgraded/tags/outdoor-prints/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/outdoor-prints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overhangs</title>
+      <link>https://abc18267.github.io/printupgraded/tags/overhangs/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/overhangs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PA12</title>
+      <link>https://abc18267.github.io/printupgraded/tags/pa12/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/pa12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PA6</title>
+      <link>https://abc18267.github.io/printupgraded/tags/pa6/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/pa6/</guid>
       <description></description>
     </item>
     <item>
@@ -205,10 +366,10 @@
       <description></description>
     </item>
     <item>
-      <title>Print Quality</title>
-      <link>https://abc18267.github.io/printupgraded/tags/print-quality/</link>
+      <title>Print Problems</title>
+      <link>https://abc18267.github.io/printupgraded/tags/print-problems/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://abc18267.github.io/printupgraded/tags/print-quality/</guid>
+      <guid>https://abc18267.github.io/printupgraded/tags/print-problems/</guid>
       <description></description>
     </item>
     <item>
@@ -219,10 +380,122 @@
       <description></description>
     </item>
     <item>
+      <title>Print Strength</title>
+      <link>https://abc18267.github.io/printupgraded/tags/print-strength/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/print-strength/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Print-Profiles</title>
+      <link>https://abc18267.github.io/printupgraded/tags/print-profiles/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/print-profiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Print-Quality</title>
+      <link>https://abc18267.github.io/printupgraded/tags/print-quality/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/print-quality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Print-Speed</title>
+      <link>https://abc18267.github.io/printupgraded/tags/print-speed/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/print-speed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Printer Setup</title>
+      <link>https://abc18267.github.io/printupgraded/tags/printer-setup/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/printer-setup/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Product Roundup</title>
       <link>https://abc18267.github.io/printupgraded/tags/product-roundup/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/product-roundup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prusaslicer</title>
+      <link>https://abc18267.github.io/printupgraded/tags/prusaslicer/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/prusaslicer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quiet Printing</title>
+      <link>https://abc18267.github.io/printupgraded/tags/quiet-printing/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/quiet-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://abc18267.github.io/printupgraded/tags/raspberry-pi/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retraction</title>
+      <link>https://abc18267.github.io/printupgraded/tags/retraction/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/retraction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slicer-Comparison</title>
+      <link>https://abc18267.github.io/printupgraded/tags/slicer-comparison/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/slicer-comparison/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slicer-Settings</title>
+      <link>https://abc18267.github.io/printupgraded/tags/slicer-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/slicer-settings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slicer-Setup</title>
+      <link>https://abc18267.github.io/printupgraded/tags/slicer-setup/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/slicer-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stepper Drivers</title>
+      <link>https://abc18267.github.io/printupgraded/tags/stepper-drivers/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/stepper-drivers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stringing</title>
+      <link>https://abc18267.github.io/printupgraded/tags/stringing/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/stringing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supports</title>
+      <link>https://abc18267.github.io/printupgraded/tags/supports/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/supports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TMC2209</title>
+      <link>https://abc18267.github.io/printupgraded/tags/tmc2209/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/tmc2209/</guid>
       <description></description>
     </item>
     <item>
@@ -233,10 +506,31 @@
       <description></description>
     </item>
     <item>
+      <title>Troubleshooting</title>
+      <link>https://abc18267.github.io/printupgraded/tags/troubleshooting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Under-Extrusion</title>
+      <link>https://abc18267.github.io/printupgraded/tags/under-extrusion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/under-extrusion/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Upgrades</title>
       <link>https://abc18267.github.io/printupgraded/tags/upgrades/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/tags/upgrades/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UV Resistant</title>
+      <link>https://abc18267.github.io/printupgraded/tags/uv-resistant/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/tags/uv-resistant/</guid>
       <description></description>
     </item>
     <item>

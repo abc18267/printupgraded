@@ -43,7 +43,7 @@
           "slug": "tmc2209-stepper-driver-upgrade",
           "primary_keyword": "TMC2209 stepper driver upgrade",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -59,7 +59,7 @@
           "slug": "3d-printer-led-lighting",
           "primary_keyword": "3D printer lighting",
           "word_count_target": 800,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -67,7 +67,7 @@
           "slug": "klipper-vs-marlin",
           "primary_keyword": "Klipper vs Marlin",
           "word_count_target": 1200,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         }
       ]
@@ -120,7 +120,7 @@
           "slug": "how-to-print-nylon",
           "primary_keyword": "nylon filament printing",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -128,7 +128,7 @@
           "slug": "asa-vs-abs",
           "primary_keyword": "ASA vs ABS filament",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -149,7 +149,7 @@
         "slug": "cura-vs-orcaslicer-vs-prusaslicer",
         "primary_keyword": "Cura vs OrcaSlicer vs PrusaSlicer",
         "word_count_target": 2500,
-        "status": "planned"
+        "status": "written"
       },
       "supporting": [
         {
@@ -157,7 +157,7 @@
           "slug": "best-cura-settings-pla",
           "primary_keyword": "best Cura settings for PLA",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -165,7 +165,7 @@
           "slug": "orcaslicer-beginner-guide",
           "primary_keyword": "OrcaSlicer beginner guide",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -173,7 +173,7 @@
           "slug": "reduce-stringing-slicer-settings",
           "primary_keyword": "reduce stringing slicer settings",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -181,7 +181,7 @@
           "slug": "infill-patterns-explained",
           "primary_keyword": "infill patterns 3D printing",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -189,7 +189,7 @@
           "slug": "3d-print-support-settings",
           "primary_keyword": "3D print support settings",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -197,7 +197,7 @@
           "slug": "print-speed-vs-quality",
           "primary_keyword": "3D print speed vs quality",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         }
       ]
@@ -210,7 +210,7 @@
         "slug": "3d-print-troubleshooting",
         "primary_keyword": "3D print troubleshooting",
         "word_count_target": 2500,
-        "status": "planned"
+        "status": "written"
       },
       "supporting": [
         {
@@ -218,7 +218,7 @@
           "slug": "fix-3d-print-stringing",
           "primary_keyword": "3D print stringing",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -226,7 +226,7 @@
           "slug": "fix-3d-print-warping",
           "primary_keyword": "3D print warping",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -234,7 +234,7 @@
           "slug": "layer-adhesion-problems",
           "primary_keyword": "3D print layer adhesion",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -242,7 +242,7 @@
           "slug": "fix-bed-adhesion",
           "primary_keyword": "3D print bed adhesion",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -250,7 +250,7 @@
           "slug": "fix-under-extrusion",
           "primary_keyword": "3D printer under-extrusion",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         },
         {
@@ -258,7 +258,7 @@
           "slug": "elephants-foot-first-layer-issues",
           "primary_keyword": "elephant's foot 3D printing",
           "word_count_target": 1000,
-          "status": "planned",
+          "status": "written",
           "links_to_pillar": true
         }
       ]

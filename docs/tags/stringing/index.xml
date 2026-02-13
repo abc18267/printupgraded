@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stringing on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/stringing/</link>
+    <description>Recent content in Stringing on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/stringing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix 3D Print Stringing Once and For All</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-fix-3d-print-stringing-once-and-for-all&#34;&gt;How to Fix 3D Print Stringing Once and For All&lt;/h1&gt;&#xA;&lt;p&gt;3D print stringing is those thin, wispy threads of filament that stretch between parts of your model. They look like spider webs. They&amp;rsquo;re annoying. And they&amp;rsquo;re one of the most common print quality issues you&amp;rsquo;ll run into. The good news is that stringing is almost always fixable with the right combination of temperature, retraction, and travel settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Reduce Stringing in Your Slicer Settings</title>
+      <link>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-reduce-stringing-in-your-slicer-settings&#34;&gt;How to Reduce Stringing in Your Slicer Settings&lt;/h1&gt;&#xA;&lt;p&gt;You can reduce stringing in your slicer settings by adjusting three things: retraction distance, retraction speed, and nozzle temperature. These three settings fix stringing in about 90% of cases. The remaining 10% usually comes from wet filament, which is a hardware problem, not a slicer problem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

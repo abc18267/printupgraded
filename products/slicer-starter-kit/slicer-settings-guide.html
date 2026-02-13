@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slicer Settings Guide - PrintUpgraded</title>
+<style>
+  @page {
+    size: letter;
+    margin: 0.6in;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1a2e;
+    background: #fff;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.5in;
+    font-size: 10.5pt;
+    line-height: 1.55;
+  }
+  .header {
+    text-align: center;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #1a1a2e;
+  }
+  .header h1 {
+    font-size: 22pt;
+    font-weight: 800;
+    color: #1a1a2e;
+    margin-bottom: 4px;
+  }
+  .header p {
+    font-size: 10pt;
+    color: #555;
+  }
+  h2 {
+    font-size: 15pt;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  h3 {
+    font-size: 12pt;
+    font-weight: 700;
+    color: #2d2d5e;
+    margin-top: 16px;
+    margin-bottom: 6px;
+  }
+  p {
+    margin-bottom: 8px;
+  }
+  .setting-block {
+    background: #f8f8fa;
+    border-left: 4px solid #1a1a2e;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    border-radius: 0 6px 6px 0;
+  }
+  .setting-block .setting-name {
+    font-weight: 700;
+    font-size: 11pt;
+    color: #1a1a2e;
+    margin-bottom: 2px;
+  }
+  .setting-block .setting-location {
+    font-size: 8.5pt;
+    color: #888;
+    margin-bottom: 4px;
+  }
+  .setting-block p {
+    margin-bottom: 4px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0 16px 0;
+    font-size: 9.5pt;
+  }
+  thead th {
+    background: #1a1a2e;
+    color: #fff;
+    padding: 7px 10px;
+    text-align: left;
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+  thead th:first-child { border-radius: 6px 0 0 0; }
+  thead th:last-child { border-radius: 0 6px 0 0; }
+  tbody td {
+    padding: 6px 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  tbody tr:nth-child(even) { background: #f8f8fa; }
+  tbody tr:last-child td { border-bottom: none; }
+
+  .troubleshoot-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 12px 0;
+  }
+  .troubleshoot-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 10px 12px;
+    background: #fff;
+  }
+  .troubleshoot-card .problem {
+    font-weight: 700;
+    color: #c0392b;
+    font-size: 10pt;
+    margin-bottom: 4px;
+  }
+  .troubleshoot-card .fix {
+    font-size: 9.5pt;
+    color: #333;
+  }
+  .troubleshoot-card .fix strong {
+    color: #2d8a4e;
+  }
+
+  .page-footer {
+    margin-top: 24px;
+    padding-top: 10px;
+    border-top: 2px solid #1a1a2e;
+    display: flex;
+    justify-content: space-between;
+    font-size: 8.5pt;
+    color: #777;
+  }
+  .page-footer strong { color: #1a1a2e; }
+
+  .page-break {
+    page-break-before: always;
+    margin-top: 0;
+  }
+
+  @media print {
+    body { padding: 0; }
+    .page-break { margin-top: 0; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Slicer Settings Guide</h1>
+  <p>The 10 settings that matter most, when to change them, and how to fix common problems</p>
+</div>
+
+<h2>The 10 Most Important Cura Settings</h2>
+
+<p>Your slicer has hundreds of settings. Most of them don't matter for everyday printing. These 10 are the ones that actually affect your print quality. Learn these and you'll handle 95% of situations.</p>
+
+<div class="setting-block">
+  <div class="setting-name">1. Layer Height</div>
+  <div class="setting-location">Cura: Quality > Layer Height</div>
+  <p>This controls how thick each layer is. Thinner layers (0.12mm) give more detail but take longer. Thicker layers (0.28mm) print faster but look rougher.</p>
+  <p><strong>When to change it:</strong> Use 0.12mm for miniatures and detailed models. Use 0.2mm for general printing. Use 0.28mm when speed matters more than looks.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">2. Print Temperature (Nozzle)</div>
+  <div class="setting-location">Cura: Material > Printing Temperature</div>
+  <p>Higher temps melt filament more. This improves layer bonding but can cause stringing and oozing. Lower temps give cleaner prints but weaker layer adhesion.</p>
+  <p><strong>When to change it:</strong> Raise by 5C if you hear clicking or see gaps between layers. Lower by 5C if you see strings or blobs. Always check the range on your filament spool.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">3. Bed Temperature</div>
+  <div class="setting-location">Cura: Material > Build Plate Temperature</div>
+  <p>Keeps the bottom of your print warm so it sticks to the bed. Too low and prints pop off. Too high and you get "elephant foot" where the bottom squishes out.</p>
+  <p><strong>When to change it:</strong> If prints won't stick, raise by 5C. If the first few layers look squished and wider than they should, lower by 5C.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">4. Print Speed</div>
+  <div class="setting-location">Cura: Speed > Print Speed</div>
+  <p>How fast the nozzle moves while printing. Faster means shorter print times. But going too fast causes ringing, poor layer adhesion, and rough surfaces.</p>
+  <p><strong>When to change it:</strong> Slow down for detailed prints or tricky filaments like TPU. Speed up for large, simple objects where surface finish doesn't matter as much.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">5. Retraction Distance</div>
+  <div class="setting-location">Cura: Travel > Retraction Distance</div>
+  <p>When the nozzle travels between parts, retraction pulls filament back to stop oozing. Too little and you get strings. Too much and you get jams or gaps.</p>
+  <p><strong>When to change it:</strong> Bowden setups need 4-6mm. Direct drive needs 0.5-1.5mm. If you see stringing, increase by 0.5mm at a time. If you see gaps after travel moves, decrease it.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">6. Retraction Speed</div>
+  <div class="setting-location">Cura: Travel > Retraction Speed</div>
+  <p>How fast filament gets pulled back. Faster retraction reduces stringing. But too fast can grind the filament or cause jams in the hotend.</p>
+  <p><strong>When to change it:</strong> Bowden: 40-50mm/s works well. Direct drive: 25-35mm/s. Only change this if adjusting distance didn't fix your stringing.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">7. Wall Count (Shell Thickness)</div>
+  <div class="setting-location">Cura: Walls > Wall Line Count</div>
+  <p>How many outlines the slicer draws for each layer. More walls mean stronger prints and better surface finish. Fewer walls save time and material.</p>
+  <p><strong>When to change it:</strong> Use 3 walls for most prints. Bump to 4-5 for functional parts that need strength. Adding walls is often more effective than increasing infill.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">8. Infill Density</div>
+  <div class="setting-location">Cura: Infill > Infill Density</div>
+  <p>How much material fills the inside of your print. 0% is hollow. 100% is solid. Most prints don't need more than 20%.</p>
+  <p><strong>When to change it:</strong> Decorative prints: 10-15%. General use: 20%. Functional parts: 30-50%. Going above 60% rarely helps. Add more walls instead.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">9. Cooling Fan Speed</div>
+  <div class="setting-location">Cura: Cooling > Fan Speed</div>
+  <p>Controls your part cooling fan. More cooling helps PLA overhangs and bridges. But materials like ABS and ASA warp if the fan is on.</p>
+  <p><strong>When to change it:</strong> PLA: 100%. PETG: 30-50%. ABS/ASA/Nylon: 0%. Always start with fan off for the first 2-3 layers to help bed adhesion.</p>
+</div>
+
+<div class="setting-block">
+  <div class="setting-name">10. Build Plate Adhesion Type</div>
+  <div class="setting-location">Cura: Build Plate Adhesion > Adhesion Type</div>
+  <p>Skirt draws a line around your print (just primes the nozzle). Brim adds a flat border that helps the print stick. Raft prints a thick base under everything.</p>
+  <p><strong>When to change it:</strong> Use skirt for most prints. Switch to brim for prints with small bases or materials that warp (ABS, ASA). Only use raft as a last resort. It wastes material and leaves a rough bottom.</p>
+</div>
+
+<h2 class="page-break">Quick Reference: PLA vs PETG vs TPU</h2>
+
+<p>Here's a side-by-side comparison of the key settings for each material. These are good starting points for an Ender 3 or similar Bowden printer.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Setting</th>
+      <th>PLA</th>
+      <th>PETG</th>
+      <th>TPU (95A)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Nozzle Temp</strong></td>
+      <td>205 C</td>
+      <td>235 C</td>
+      <td>220 C</td>
+    </tr>
+    <tr>
+      <td><strong>Bed Temp</strong></td>
+      <td>60 C</td>
+      <td>80 C</td>
+      <td>50 C</td>
+    </tr>
+    <tr>
+      <td><strong>Print Speed</strong></td>
+      <td>50 mm/s</td>
+      <td>40 mm/s</td>
+      <td>20 mm/s</td>
+    </tr>
+    <tr>
+      <td><strong>Retraction Distance</strong></td>
+      <td>5.0 mm</td>
+      <td>3.5 mm</td>
+      <td>0 mm (off)</td>
+    </tr>
+    <tr>
+      <td><strong>Retraction Speed</strong></td>
+      <td>45 mm/s</td>
+      <td>40 mm/s</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><strong>Cooling Fan</strong></td>
+      <td>100%</td>
+      <td>40%</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td><strong>Wall Count</strong></td>
+      <td>3</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><strong>Infill</strong></td>
+      <td>20% Cubic</td>
+      <td>20% Cubic</td>
+      <td>15% Gyroid</td>
+    </tr>
+    <tr>
+      <td><strong>Adhesion</strong></td>
+      <td>Skirt</td>
+      <td>Skirt</td>
+      <td>Brim</td>
+    </tr>
+    <tr>
+      <td><strong>Z-Hop</strong></td>
+      <td>Off</td>
+      <td>On (0.2mm)</td>
+      <td>Off</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Key Differences to Remember</h3>
+
+<p><strong>PETG needs less retraction than PLA.</strong> PETG is stringy by nature. Using PLA retraction settings will make it worse because you'll get gaps after travel moves. Use shorter retraction (3-4mm Bowden) and enable Z-hop instead.</p>
+
+<p><strong>TPU needs to go slow.</strong> Flexible filament buckles and jams if you push it too fast, especially on Bowden extruders. 20mm/s feels painfully slow, but it's what works. If you have a direct drive upgrade, you can push to 30-35mm/s.</p>
+
+<p><strong>PLA is forgiving. Lean on it while learning.</strong> If you're still dialing in your printer, use PLA. It prints at lower temps, handles cooling well, and doesn't need an enclosure. Once you're getting consistent PLA prints, branch out to PETG.</p>
+
+<h2 class="page-break">Troubleshooting: If Your Print Looks Like This, Change That</h2>
+
+<p>Most print problems come from just a few settings being wrong. Here's a quick reference for the most common issues and their fixes.</p>
+
+<div class="troubleshoot-grid">
+  <div class="troubleshoot-card">
+    <div class="problem">Stringing between parts</div>
+    <div class="fix"><strong>Fix:</strong> Increase retraction distance by 0.5mm. Lower nozzle temp by 5C. Enable Z-hop for PETG. Increase travel speed to 150mm/s.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">First layer won't stick</div>
+    <div class="fix"><strong>Fix:</strong> Level your bed. Slow first layer to 15-20mm/s. Raise bed temp by 5C. Increase first layer flow to 105%. Try a brim.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Rough or blobby surface</div>
+    <div class="fix"><strong>Fix:</strong> Lower nozzle temp by 5-10C. Check for wet filament (dry it if needed). Slow outer wall speed to 25-30mm/s.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Weak layer adhesion (layers splitting)</div>
+    <div class="fix"><strong>Fix:</strong> Raise nozzle temp by 10C. Reduce cooling fan speed. Increase wall overlap. Check for drafts hitting the printer.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Warping/curling corners</div>
+    <div class="fix"><strong>Fix:</strong> Raise bed temp by 5-10C. Add a brim. Use an enclosure for ABS/ASA. Turn off the cooling fan for first 5-8 layers.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Under-extrusion (gaps in walls)</div>
+    <div class="fix"><strong>Fix:</strong> Raise nozzle temp by 5C. Slow print speed. Check for a clog (do a cold pull). Increase flow rate by 2-3%.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Over-extrusion (thick, uneven lines)</div>
+    <div class="fix"><strong>Fix:</strong> Lower flow rate by 2-5%. Calibrate your E-steps. Check that your nozzle diameter is set correctly in the slicer.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Ringing/ghosting (wavy pattern on walls)</div>
+    <div class="fix"><strong>Fix:</strong> Slow print speed to 40mm/s. Reduce acceleration in firmware. Tighten belts. Check for loose screws on the printhead.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Elephant foot (first layer too wide)</div>
+    <div class="fix"><strong>Fix:</strong> Lower bed temp by 5C. Raise nozzle slightly (your bed might be too close). Reduce first layer flow to 95-98%.</div>
+  </div>
+  <div class="troubleshoot-card">
+    <div class="problem">Pillowing (bumps on top surface)</div>
+    <div class="fix"><strong>Fix:</strong> Increase top layers to 5-6. Increase infill density to 25%+. Make sure cooling is at 100% for PLA.</div>
+  </div>
+</div>
+
+<h3>General Troubleshooting Tip</h3>
+
+<p>Change one setting at a time. If you adjust three things at once and the print improves, you won't know which change fixed it. Make one change, print a small test, and evaluate. This feels slower but saves time in the long run.</p>
+
+<div class="page-footer">
+  <span><strong>PrintUpgraded</strong> Slicer Starter Kit | printupgraded.github.io</span>
+  <span>v1.0 | February 2026</span>
+</div>
+
+</body>
+</html>

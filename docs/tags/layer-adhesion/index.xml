@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layer Adhesion on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/layer-adhesion/</link>
+    <description>Recent content in Layer Adhesion on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/layer-adhesion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Layer Adhesion Problems: Why Your Prints Are Weak</title>
+      <link>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;layer-adhesion-problems-why-your-prints-are-weak&#34;&gt;Layer Adhesion Problems: Why Your Prints Are Weak&lt;/h1&gt;&#xA;&lt;p&gt;If your 3D prints snap apart along the layer lines, you have a layer adhesion problem. Good 3D print layer adhesion means each layer fuses properly to the one below it. When it works, your parts are strong. When it doesn&amp;rsquo;t, they&amp;rsquo;re brittle and fragile. The most common cause is printing too cold. Raise your temperature 5-10C and you&amp;rsquo;ll probably fix it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

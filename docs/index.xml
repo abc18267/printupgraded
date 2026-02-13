@@ -9,6 +9,20 @@
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://abc18267.github.io/printupgraded/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D Print Troubleshooting: Fix the Most Common Problems</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-print-troubleshooting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-print-troubleshooting/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;3d-print-troubleshooting-fix-the-most-common-problems&#34;&gt;3D Print Troubleshooting: Fix the Most Common Problems&lt;/h1&gt;&#xA;&lt;p&gt;Every 3D printer owner hits problems. Stringing, warping, failed first layers, weak parts. These issues don&amp;rsquo;t mean your printer is broken. They mean something needs adjusting. This 3D print troubleshooting guide covers the most common problems you&amp;rsquo;ll face and shows you exactly how to fix each one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Print Warping: Causes and Fixes That Work</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;3d-print-warping-causes-and-fixes-that-work&#34;&gt;3D Print Warping: Causes and Fixes That Work&lt;/h1&gt;&#xA;&lt;p&gt;3D print warping happens when the corners or edges of your print curl up from the bed. It&amp;rsquo;s one of the most common and frustrating problems in 3D printing. The fix depends on your material, your environment, and your bed setup. In most cases, you can stop warping completely with the right combination of bed temperature, adhesion helpers, and environmental control.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>3D Printer Enclosure: Do You Need One?</title>
       <link>https://abc18267.github.io/printupgraded/blog/3d-printer-enclosure-guide/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -23,11 +37,32 @@
       <description>&lt;p&gt;&lt;strong&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We earn a small commission if you buy through them. This doesn&amp;rsquo;t cost you extra and doesn&amp;rsquo;t affect our recommendations. See our &lt;a href=&#34;https://abc18267.github.io/printupgraded/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h1 id=&#34;all-metal-hotend-upgrade-is-it-worth-it&#34;&gt;All-Metal Hotend Upgrade: Is It Worth It?&lt;/h1&gt;&#xA;&lt;p&gt;An all-metal hotend upgrade is worth it if you print anything beyond PLA. It lets you safely reach temperatures above 240C, which opens up PETG at proper settings, ABS, nylon, and other high-performance filaments. If you only print PLA and plan to keep it that way, you can skip this upgrade.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ASA vs ABS: Which Filament Is Better for Outdoor Prints?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/asa-vs-abs/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/asa-vs-abs/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;asa-vs-abs-which-filament-is-better-for-outdoor-prints&#34;&gt;ASA vs ABS: Which Filament Is Better for Outdoor Prints?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing ASA vs ABS filament for outdoor prints, ASA wins. It&amp;rsquo;s basically ABS with UV resistance built in. Parts printed in ASA hold up in direct sunlight for years without yellowing, cracking, or getting brittle. ABS degrades in UV light within months. For anything that lives outside, ASA is the right choice.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Best 3D Printer Upgrades That Actually Matter</title>
       <link>https://abc18267.github.io/printupgraded/blog/best-3d-printer-upgrades/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/blog/best-3d-printer-upgrades/</guid>
       <description>&lt;h1 id=&#34;best-3d-printer-upgrades-that-actually-matter&#34;&gt;Best 3D Printer Upgrades That Actually Matter&lt;/h1&gt;&#xA;&lt;p&gt;Most lists of best 3D printer upgrades throw 20 items at you with no clear order. That&amp;rsquo;s not helpful. Some upgrades make a massive difference. Others are a waste of money. This guide ranks the upgrades that actually improve your prints, in the order you should install them.&lt;/p&gt;&#xA;&lt;p&gt;If you own a budget printer like an Ender 3, CR-10, or Anycubic Kobra, these upgrades will get you closer to results you&amp;rsquo;d expect from a machine costing twice as much.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best Cura Settings for PLA: A Complete Profile Guide</title>
+      <link>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-cura-settings-for-pla-a-complete-profile-guide&#34;&gt;Best Cura Settings for PLA: A Complete Profile Guide&lt;/h1&gt;&#xA;&lt;p&gt;The best Cura settings for PLA are 200-210C nozzle temperature, 60C bed temperature, 50 mm/s print speed, and 0.2mm layer height. These work as a reliable starting point for most printers. But the details matter, and small tweaks make the difference between an okay print and a great one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Best LED Lighting for Your 3D Printer Setup</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-printer-led-lighting/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-printer-led-lighting/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-led-lighting-for-your-3d-printer-setup&#34;&gt;Best LED Lighting for Your 3D Printer Setup&lt;/h1&gt;&#xA;&lt;p&gt;Good 3D printer lighting makes a bigger difference than you&amp;rsquo;d expect. You can spot stringing, layer issues, and adhesion problems in real time instead of discovering them after a 12-hour print. If you shoot timelapses, proper lighting is the difference between a blurry mess and a clean video. Luckily, adding LEDs to your printer is cheap and takes about 15 minutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best PLA Filament Brands: Top Picks for Reliable Prints</title>
@@ -37,6 +72,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We earn a small commission if you buy through them. This doesn&amp;rsquo;t cost you extra and doesn&amp;rsquo;t affect our recommendations. See our &lt;a href=&#34;https://abc18267.github.io/printupgraded/affiliate-disclosure/&#34;&gt;affiliate disclosure&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-pla-filament-brands-top-picks-for-reliable-prints&#34;&gt;Best PLA Filament Brands: Top Picks for Reliable Prints&lt;/h1&gt;&#xA;&lt;p&gt;The best PLA filament brands give you consistent diameter, accurate colors, and clean prints without constant troubleshooting. After testing dozens of spools across multiple printers, these five brands deliver the most reliable results. If you just want one answer, Overture PLA is our top pick for the best balance of quality and price.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cura vs OrcaSlicer vs PrusaSlicer: Which Free Slicer Is Best?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/cura-vs-orcaslicer-vs-prusaslicer/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/cura-vs-orcaslicer-vs-prusaslicer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;cura-vs-orcaslicer-vs-prusaslicer-which-free-slicer-is-best&#34;&gt;Cura vs OrcaSlicer vs PrusaSlicer: Which Free Slicer Is Best?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing Cura vs OrcaSlicer vs PrusaSlicer, here&amp;rsquo;s the short answer. Cura is the easiest to learn and supports the most printers. OrcaSlicer has the best auto-calibration tools and multi-color support. PrusaSlicer is the most stable and polished option. All three are free, and the right choice depends on your printer and experience level.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?</title>
       <link>https://abc18267.github.io/printupgraded/blog/direct-drive-vs-bowden/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -44,11 +86,32 @@
       <description>&lt;h1 id=&#34;direct-drive-vs-bowden-extruder-which-is-better-for-your-printer&#34;&gt;Direct Drive vs Bowden Extruder: Which Is Better for Your Printer?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing direct drive vs Bowden, here&amp;rsquo;s the short answer. Bowden is better for speed. Direct drive is better for filament variety and print quality. If you want to print flexible filaments like TPU, direct drive is almost mandatory. If you only print PLA at high speeds, Bowden works great.&lt;/p&gt;&#xA;&lt;p&gt;Most budget printers come with Bowden setups. Many people upgrade to direct drive after hitting the limits of what Bowden can do. Let&amp;rsquo;s look at why.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Elephant&#39;s Foot and Other First Layer Issues Explained</title>
+      <link>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;elephants-foot-and-other-first-layer-issues-explained&#34;&gt;Elephant&amp;rsquo;s Foot and Other First Layer Issues Explained&lt;/h1&gt;&#xA;&lt;p&gt;Elephant&amp;rsquo;s foot in 3D printing is when the first layer or two of your print bulge outward. The bottom of the part ends up wider than the rest. It&amp;rsquo;s named after what it looks like: a flat, flared base, similar to an elephant&amp;rsquo;s foot. The main causes are a Z offset that&amp;rsquo;s too close, a bed temperature that&amp;rsquo;s too high, or too much weight pressing down on a hot first layer. Here&amp;rsquo;s how to fix it and other first layer problems.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Filament Drying Guide: Why It Matters and How to Do It Right</title>
       <link>https://abc18267.github.io/printupgraded/blog/filament-drying-guide/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/blog/filament-drying-guide/</guid>
       <description>&lt;h1 id=&#34;filament-drying-guide-why-it-matters-and-how-to-do-it-right&#34;&gt;Filament Drying Guide: Why It Matters and How to Do It Right&lt;/h1&gt;&#xA;&lt;p&gt;Wet filament is one of the most common causes of bad 3D prints. If your prints have rough surfaces, popping sounds, stringing, or weak layers, moisture is probably the problem. Filament drying is simple. You just need to apply gentle heat for a few hours. This guide covers why it matters, how to spot the signs, and the best ways to dry and store your filament.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Layer Not Sticking? Here&#39;s How to Fix Bed Adhesion</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;first-layer-not-sticking-heres-how-to-fix-bed-adhesion&#34;&gt;First Layer Not Sticking? Here&amp;rsquo;s How to Fix Bed Adhesion&lt;/h1&gt;&#xA;&lt;p&gt;If your first layer won&amp;rsquo;t stick, nothing else matters. The whole print will fail. 3D print bed adhesion problems are the most common issue beginners face. In most cases, the fix is simple: your bed isn&amp;rsquo;t level, your Z offset is wrong, or your build surface is dirty. Let&amp;rsquo;s walk through every cause and fix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Fix 3D Print Stringing Once and For All</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-fix-3d-print-stringing-once-and-for-all&#34;&gt;How to Fix 3D Print Stringing Once and For All&lt;/h1&gt;&#xA;&lt;p&gt;3D print stringing is those thin, wispy threads of filament that stretch between parts of your model. They look like spider webs. They&amp;rsquo;re annoying. And they&amp;rsquo;re one of the most common print quality issues you&amp;rsquo;ll run into. The good news is that stringing is almost always fixable with the right combination of temperature, retraction, and travel settings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Print PETG: Settings, Tips, and Common Mistakes</title>
@@ -65,6 +128,48 @@
       <description>&lt;h1 id=&#34;how-to-print-tpu-flexible-filament-a-beginners-guide&#34;&gt;How to Print TPU Flexible Filament: A Beginner&amp;rsquo;s Guide&lt;/h1&gt;&#xA;&lt;p&gt;Printing TPU is easier than most people think. You just need the right settings and a little patience. If you know how to print TPU properly, you can make phone cases, drone bumpers, gaskets, shoe insoles, and anything else that needs to bend without breaking.&lt;/p&gt;&#xA;&lt;p&gt;TPU (thermoplastic polyurethane) is a flexible, rubber-like filament. It&amp;rsquo;s completely different from rigid materials like PLA, PETG, or ABS. If you&amp;rsquo;re not sure how TPU compares to those options, check out our &lt;a href=&#34;https://abc18267.github.io/printupgraded/blog/pla-vs-petg-vs-abs/&#34;&gt;filament comparison guide&lt;/a&gt; for the full breakdown.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How to Reduce Stringing in Your Slicer Settings</title>
+      <link>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-reduce-stringing-in-your-slicer-settings&#34;&gt;How to Reduce Stringing in Your Slicer Settings&lt;/h1&gt;&#xA;&lt;p&gt;You can reduce stringing in your slicer settings by adjusting three things: retraction distance, retraction speed, and nozzle temperature. These three settings fix stringing in about 90% of cases. The remaining 10% usually comes from wet filament, which is a hardware problem, not a slicer problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infill Patterns Explained: Which One Should You Use?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;infill-patterns-explained-which-one-should-you-use&#34;&gt;Infill Patterns Explained: Which One Should You Use?&lt;/h1&gt;&#xA;&lt;p&gt;Infill patterns in 3D printing determine the internal structure of your prints. The right pattern depends on what you&amp;rsquo;re printing. Grid and lines work great for quick prints that don&amp;rsquo;t need strength. Gyroid is the best all-around choice for functional parts. Lightning saves the most material when you just need to support top layers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Klipper vs Marlin Firmware: Which Should You Use?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;klipper-vs-marlin-firmware-which-should-you-use&#34;&gt;Klipper vs Marlin Firmware: Which Should You Use?&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re choosing between Klipper vs Marlin, here&amp;rsquo;s the short answer. Marlin is simpler and works great out of the box. Klipper is more powerful but requires a Raspberry Pi and more setup. If you want to push your printer faster, use pressure advance, or control everything from a web browser, go Klipper. If you just want reliable prints without extra hardware, stick with Marlin.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Layer Adhesion Problems: Why Your Prints Are Weak</title>
+      <link>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;layer-adhesion-problems-why-your-prints-are-weak&#34;&gt;Layer Adhesion Problems: Why Your Prints Are Weak&lt;/h1&gt;&#xA;&lt;p&gt;If your 3D prints snap apart along the layer lines, you have a layer adhesion problem. Good 3D print layer adhesion means each layer fuses properly to the one below it. When it works, your parts are strong. When it doesn&amp;rsquo;t, they&amp;rsquo;re brittle and fragile. The most common cause is printing too cold. Raise your temperature 5-10C and you&amp;rsquo;ll probably fix it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nylon Filament Printing Guide: Settings and Tips</title>
+      <link>https://abc18267.github.io/printupgraded/blog/how-to-print-nylon/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/how-to-print-nylon/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;nylon-filament-printing-guide-settings-and-tips&#34;&gt;Nylon Filament Printing Guide: Settings and Tips&lt;/h1&gt;&#xA;&lt;p&gt;Nylon filament printing gives you parts that are tough, wear-resistant, and slightly flexible. It&amp;rsquo;s one of the strongest materials you can print at home. But it&amp;rsquo;s also one of the hardest to get right. Nylon absorbs moisture from the air like a sponge, needs high temperatures, and warps aggressively. If you know what to expect and set things up correctly, the results are worth the effort.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OrcaSlicer Beginner Guide: Setup and First Print</title>
+      <link>https://abc18267.github.io/printupgraded/blog/orcaslicer-beginner-guide/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/orcaslicer-beginner-guide/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;orcaslicer-beginner-guide-setup-and-first-print&#34;&gt;OrcaSlicer Beginner Guide: Setup and First Print&lt;/h1&gt;&#xA;&lt;p&gt;OrcaSlicer is a free, open-source slicer that started as a fork of BambuStudio (which itself forked from PrusaSlicer). It&amp;rsquo;s become one of the most popular slicers in the 3D printing community thanks to its built-in calibration tools, fast slicing, and excellent multi-color support. This OrcaSlicer beginner guide will walk you through downloading, setting up, and making your first print.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PEI Build Plate vs Glass vs Magnetic: Which Print Surface Wins?</title>
       <link>https://abc18267.github.io/printupgraded/blog/pei-vs-glass-vs-magnetic-build-plate/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -77,6 +182,41 @@
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://abc18267.github.io/printupgraded/blog/pla-vs-petg-vs-abs/</guid>
       <description>&lt;h1 id=&#34;pla-vs-petg-vs-abs-complete-filament-comparison-guide&#34;&gt;PLA vs PETG vs ABS: Complete Filament Comparison Guide&lt;/h1&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re comparing PLA vs PETG vs ABS, here&amp;rsquo;s the short answer. PLA is the easiest to print and best for beginners. PETG is stronger and more heat-resistant. ABS is the toughest but hardest to work with. The right choice depends on what you&amp;rsquo;re printing and where it&amp;rsquo;ll be used.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s break down exactly how these three filaments compare so you can pick the right one for your project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Print Speed vs Quality: Finding the Right Balance</title>
+      <link>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;print-speed-vs-quality-finding-the-right-balance&#34;&gt;Print Speed vs Quality: Finding the Right Balance&lt;/h1&gt;&#xA;&lt;p&gt;The relationship between 3D print speed vs quality isn&amp;rsquo;t as simple as &amp;ldquo;slower is better.&amp;rdquo; The sweet spot for most printers is 40-60 mm/s for high-quality prints and 80-120 mm/s for everyday prints. Modern printers with input shaper and pressure advance can push 150-300 mm/s without losing much quality. The right speed depends on your printer, your material, and how much quality you actually need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slicer Starter Kit: Optimized Cura Profiles for Perfect Prints</title>
+      <link>https://abc18267.github.io/printupgraded/slicer-starter-kit/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/slicer-starter-kit/</guid>
+      <description>&lt;h1 id=&#34;slicer-starter-kit-optimized-cura-profiles-for-perfect-prints&#34;&gt;Slicer Starter Kit: Optimized Cura Profiles for Perfect Prints&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tired-of-failed-prints-and-hours-of-settings-tweaking&#34;&gt;Tired of Failed Prints and Hours of Settings Tweaking?&lt;/h2&gt;&#xA;&lt;p&gt;You bought a 3D printer to make things. Not to spend your weekends adjusting retraction values and Googling why your prints keep failing.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the problem. Default slicer profiles are just okay. They&amp;rsquo;re built to work on the widest range of printers possible. They&amp;rsquo;re not tuned for your printer or your filament. That&amp;rsquo;s why your prints look decent but not great. That&amp;rsquo;s why you still get stringing, warping, and weird blobs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support Settings Guide: When and How to Use Supports</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;support-settings-guide-when-and-how-to-use-supports&#34;&gt;Support Settings Guide: When and How to Use Supports&lt;/h1&gt;&#xA;&lt;p&gt;Getting your 3D print support settings right is the difference between clean prints and damaged ones. You need supports when your model has overhangs greater than 45 degrees from vertical. The best approach for most prints is tree or organic supports with 2-3 interface layers at 15% density. This gives you strong support that still removes cleanly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet</title>
+      <link>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tmc2209-stepper-driver-upgrade-make-your-printer-whisper-quiet&#34;&gt;TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet&lt;/h1&gt;&#xA;&lt;p&gt;A TMC2209 stepper driver upgrade is one of the best things you can do if your 3D printer sounds like an angry robot. Stock stepper drivers on budget printers are loud. Really loud. Swapping them for TMC2209 drivers can drop your noise levels by up to 90%. Your printer won&amp;rsquo;t be silent. But it&amp;rsquo;ll go from &amp;ldquo;screaming in the next room&amp;rdquo; to &amp;ldquo;quiet hum at your desk.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Under-Extrusion: Causes, Diagnosis, and Fixes</title>
+      <link>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Affiliate Disclosure:&lt;/strong&gt; Some links in this article are affiliate links. We may earn a small commission if you purchase through them, at no extra cost to you.&lt;/p&gt;&#xA;&lt;h1 id=&#34;under-extrusion-causes-diagnosis-and-fixes&#34;&gt;Under-Extrusion: Causes, Diagnosis, and Fixes&lt;/h1&gt;&#xA;&lt;p&gt;3D printer under-extrusion means your printer isn&amp;rsquo;t pushing out enough filament. You&amp;rsquo;ll see gaps between lines, thin or missing layers, and weak infill. Your prints look incomplete and feel fragile. The most common causes are a clogged nozzle, wrong temperature, or an extruder that&amp;rsquo;s slipping. Here&amp;rsquo;s how to diagnose and fix it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About PrintUpgraded</title>

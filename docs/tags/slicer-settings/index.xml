@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slicer-Settings on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/slicer-settings/</link>
+    <description>Recent content in Slicer-Settings on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/slicer-settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Cura Settings for PLA: A Complete Profile Guide</title>
+      <link>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;best-cura-settings-for-pla-a-complete-profile-guide&#34;&gt;Best Cura Settings for PLA: A Complete Profile Guide&lt;/h1&gt;&#xA;&lt;p&gt;The best Cura settings for PLA are 200-210C nozzle temperature, 60C bed temperature, 50 mm/s print speed, and 0.2mm layer height. These work as a reliable starting point for most printers. But the details matter, and small tweaks make the difference between an okay print and a great one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Reduce Stringing in Your Slicer Settings</title>
+      <link>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-reduce-stringing-in-your-slicer-settings&#34;&gt;How to Reduce Stringing in Your Slicer Settings&lt;/h1&gt;&#xA;&lt;p&gt;You can reduce stringing in your slicer settings by adjusting three things: retraction distance, retraction speed, and nozzle temperature. These three settings fix stringing in about 90% of cases. The remaining 10% usually comes from wet filament, which is a hardware problem, not a slicer problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infill Patterns Explained: Which One Should You Use?</title>
+      <link>https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;infill-patterns-explained-which-one-should-you-use&#34;&gt;Infill Patterns Explained: Which One Should You Use?&lt;/h1&gt;&#xA;&lt;p&gt;Infill patterns in 3D printing determine the internal structure of your prints. The right pattern depends on what you&amp;rsquo;re printing. Grid and lines work great for quick prints that don&amp;rsquo;t need strength. Gyroid is the best all-around choice for functional parts. Lightning saves the most material when you just need to support top layers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Print Speed vs Quality: Finding the Right Balance</title>
+      <link>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;print-speed-vs-quality-finding-the-right-balance&#34;&gt;Print Speed vs Quality: Finding the Right Balance&lt;/h1&gt;&#xA;&lt;p&gt;The relationship between 3D print speed vs quality isn&amp;rsquo;t as simple as &amp;ldquo;slower is better.&amp;rdquo; The sweet spot for most printers is 40-60 mm/s for high-quality prints and 80-120 mm/s for everyday prints. Modern printers with input shaper and pressure advance can push 150-300 mm/s without losing much quality. The right speed depends on your printer, your material, and how much quality you actually need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support Settings Guide: When and How to Use Supports</title>
+      <link>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. &lt;a href=&#34;https://abc18267.github.io/printupgraded/disclosure/&#34;&gt;Full disclosure here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;support-settings-guide-when-and-how-to-use-supports&#34;&gt;Support Settings Guide: When and How to Use Supports&lt;/h1&gt;&#xA;&lt;p&gt;Getting your 3D print support settings right is the difference between clean prints and damaged ones. You need supports when your model has overhangs greater than 45 degrees from vertical. The best approach for most prints is tree or organic supports with 2-3 interface layers at 15% density. This gives you strong support that still removes cleanly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

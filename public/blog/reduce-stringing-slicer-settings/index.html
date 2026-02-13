@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to Reduce Stringing in Your Slicer Settings - PrintUpgraded</title>
+  <meta name="description" content="Learn how to reduce stringing in your slicer settings with retraction, temperature, and travel speed tweaks that actually work">
+  <meta property="og:title" content="How to Reduce Stringing in Your Slicer Settings">
+  <meta property="og:description" content="Learn how to reduce stringing in your slicer settings with retraction, temperature, and travel speed tweaks that actually work">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="PrintUpgraded">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="How to Reduce Stringing in Your Slicer Settings">
+  <meta name="twitter:description" content="Learn how to reduce stringing in your slicer settings with retraction, temperature, and travel speed tweaks that actually work">
+  <link rel="canonical" href="https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/">
+  <link rel="sitemap" type="application/xml" href="https://abc18267.github.io/printupgraded/sitemap.xml">
+  
+  <style>
+    :root { --max-width: 720px; --text: #1a1a1a; --bg: #fff; --accent: #0066cc; --muted: #666; --border: #e5e5e5; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); line-height: 1.7; font-size: 17px; }
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+    header { border-bottom: 1px solid var(--border); padding: 1.5rem 0; margin-bottom: 2rem; }
+    .site-title { color: var(--text); text-decoration: none; font-weight: 700; font-size: 1.25rem; }
+    .site-tagline { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 0.15rem; }
+    nav { margin-top: 0.5rem; }
+    nav a { color: var(--muted); text-decoration: none; margin-right: 1rem; font-size: 0.9rem; }
+    nav a:hover { color: var(--accent); }
+    main { padding-bottom: 3rem; }
+    h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    p { margin-bottom: 1rem; }
+    a { color: var(--accent); }
+    ul, ol { margin-bottom: 1rem; padding-left: 1.5rem; }
+    li { margin-bottom: 0.25rem; }
+    img { max-width: 100%; height: auto; }
+    .post-meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .post-list a { text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+    .post-list .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.25rem; }
+    .post-list .date { color: var(--muted); font-size: 0.85rem; }
+    .ad-placeholder { background: var(--bg); border: 1px dashed var(--border); padding: 1rem; text-align: center; color: var(--muted); font-size: 0.8rem; margin: 2rem 0; min-height: 90px; display: none; }
+    .disclosure { background: #f9f9f9; border-left: 3px solid var(--accent); padding: 0.75rem 1rem; font-size: 0.85rem; color: var(--muted); margin-bottom: 1.5rem; }
+    footer { border-top: 1px solid var(--border); padding: 1.5rem 0; color: var(--muted); font-size: 0.85rem; text-align: center; }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+    @media (max-width: 600px) { body { font-size: 16px; } h1 { font-size: 1.6rem; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a class="site-title" href="/">PrintUpgraded</a>
+      <span class="site-tagline">Better prints start here.</span>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </nav>
+    </header>
+    
+    <div class="ad-placeholder" id="ad-top" aria-hidden="true">Ad Space</div>
+    <main>
+      
+<article>
+  <h1>How to Reduce Stringing in Your Slicer Settings</h1>
+  <p><em>This post may contain affiliate links. If you buy through these links, we may earn a small commission at no extra cost to you. <a href="/disclosure/">Full disclosure here</a>.</em></p>
+<h1 id="how-to-reduce-stringing-in-your-slicer-settings">How to Reduce Stringing in Your Slicer Settings</h1>
+<p>You can reduce stringing in your slicer settings by adjusting three things: retraction distance, retraction speed, and nozzle temperature. These three settings fix stringing in about 90% of cases. The remaining 10% usually comes from wet filament, which is a hardware problem, not a slicer problem.</p>
+<p>Let&rsquo;s fix your stringing issue step by step.</p>
+<h2 id="what-causes-stringing">What Causes Stringing?</h2>
+<p>Stringing happens when melted filament oozes out of the nozzle while the print head moves between two points. Those thin threads of plastic stretch between parts of your model like cobwebs.</p>
+<p>The root cause is simple. Filament stays liquid in the nozzle. When the print head travels across open space, some of that liquid leaks out. Your slicer settings control how much leaking happens.</p>
+<p>Here are the main causes, ranked by how common they are:</p>
+<ol>
+<li><strong>Retraction settings too low.</strong> The slicer doesn&rsquo;t pull back enough filament during travel moves.</li>
+<li><strong>Nozzle temperature too high.</strong> Hotter filament flows more easily and oozes more.</li>
+<li><strong>Wet filament.</strong> Moisture in the filament creates steam that pushes plastic out of the nozzle.</li>
+<li><strong>Travel speed too slow.</strong> The nozzle spends too long hovering over open areas.</li>
+</ol>
+<h2 id="fix-1-adjust-retraction-distance-and-speed">Fix 1: Adjust Retraction Distance and Speed</h2>
+<p>Retraction is your main weapon against stringing. When the print head needs to move without printing, the extruder pulls filament back into the nozzle. This creates negative pressure that stops oozing.</p>
+<p>Two values matter: distance and speed.</p>
+<h3 id="retraction-distance">Retraction Distance</h3>
+<p>This controls how far the filament gets pulled back.</p>
+<p><strong>Bowden extruders</strong> (stock Ender 3, CR-10, most budget printers): Start at 5mm. You can go up to 7mm if needed. Bowden setups need more retraction because of the long tube between the extruder and hotend.</p>
+<p><strong>Direct drive extruders</strong>: Start at 0.5-1mm. Don&rsquo;t go above 2mm. Direct drive has a short filament path, so less retraction is needed. Too much retraction on direct drive causes jams. Not sure which type you have? Check our <a href="/blog/direct-drive-vs-bowden/">direct drive vs Bowden guide</a>.</p>
+<h3 id="retraction-speed">Retraction Speed</h3>
+<p>This controls how fast the filament gets pulled back.</p>
+<p>Start at 45 mm/s for Bowden setups and 25 mm/s for direct drive. If you still see stringing, try increasing by 5 mm/s increments.</p>
+<p>Don&rsquo;t go above 70 mm/s. Very high retraction speeds can grind the filament and cause feeding problems.</p>
+<h2 id="fix-2-lower-your-nozzle-temperature">Fix 2: Lower Your Nozzle Temperature</h2>
+<p>If retraction alone doesn&rsquo;t solve it, your nozzle is probably too hot. Hotter filament is thinner and flows more freely. That means more oozing.</p>
+<p>Drop your temperature by 5C at a time. For PLA, try going from 210C down to 200C. For <a href="/blog/how-to-print-petg/">PETG</a>, try 230C instead of 240C.</p>
+<p>Don&rsquo;t go too low, though. If your temperature is too cold, you&rsquo;ll trade stringing for under-extrusion and weak layer adhesion. There&rsquo;s a sweet spot for every filament.</p>
+<p>A temperature tower test helps you find that sweet spot. You print a tower with different temperature zones and pick the one that looks best. Both OrcaSlicer and Cura can generate these. Our <a href="/blog/cura-vs-orcaslicer-vs-prusaslicer/">slicer comparison guide</a> explains which tools each slicer offers.</p>
+<h2 id="fix-3-increase-travel-speed">Fix 3: Increase Travel Speed</h2>
+<p>Travel speed is how fast the print head moves when it&rsquo;s not printing. Faster travel means less time for filament to ooze.</p>
+<p>Set your travel speed to 150-200 mm/s. Most printers handle this fine since the nozzle isn&rsquo;t extruding during travel moves.</p>
+<p>This isn&rsquo;t a magic fix on its own, but it helps when combined with good retraction settings.</p>
+<h2 id="fix-4-enable-wipe-and-coasting">Fix 4: Enable Wipe and Coasting</h2>
+<p>These two settings add extra stringing protection.</p>
+<p><strong>Wipe</strong> makes the nozzle move back along the printed path before lifting for a travel move. This wipes the nozzle tip clean and reduces the blob of filament that can string on the next move.</p>
+<p><strong>Coasting</strong> stops extrusion slightly before the end of each line. The remaining pressure in the nozzle finishes the line. This reduces the pressure that causes oozing during travel.</p>
+<p>In Cura, enable both under the &ldquo;Travel&rdquo; section. In OrcaSlicer and PrusaSlicer, look for &ldquo;Wipe while retracting&rdquo; in the retraction settings.</p>
+<p>Start with coasting at 0.064 mm3 in Cura. If your line ends look too thin, reduce it or turn it off.</p>
+<h2 id="fix-5-dry-your-filament">Fix 5: Dry Your Filament</h2>
+<p>If you&rsquo;ve tuned all your slicer settings and still see stringing, the problem is probably wet filament.</p>
+<p>Filament absorbs moisture from the air. When wet filament hits the hot nozzle, the moisture turns to steam. That steam pushes filament out of the nozzle, creating strings that no retraction setting can fix.</p>
+<p>Signs of wet filament:</p>
+<ul>
+<li>Stringing that won&rsquo;t go away regardless of settings</li>
+<li>Popping or crackling sounds during printing</li>
+<li>Rough, pitted surface finish</li>
+<li>Small zits and blobs on the surface</li>
+</ul>
+<p>Check our <a href="/blog/filament-drying-guide/">filament drying guide</a> for step-by-step instructions on how to dry your spools.</p>
+<p><a href="/blog/how-to-print-petg/">PETG</a> is especially prone to moisture-related stringing. If you&rsquo;re printing PETG and fighting strings, drying the filament should be your first step.</p>
+<h2 id="how-to-run-a-retraction-tower-test">How to Run a Retraction Tower Test</h2>
+<p>Instead of guessing at settings, print a retraction test. This prints a series of small towers with different retraction distances. You can see exactly which distance eliminates stringing.</p>
+<p><strong>In OrcaSlicer:</strong> Go to Calibration and select Retraction Test. Set your range (try 0.5mm to 6mm for Bowden, or 0.2mm to 2mm for direct drive). The slicer generates the model and inserts the setting changes automatically.</p>
+<p><strong>In Cura:</strong> Download a retraction tower STL from Thingiverse. Use the &ldquo;Change at Z&rdquo; post-processing script to set different retraction distances at different heights.</p>
+<p><strong>In PrusaSlicer:</strong> Similar to Cura. Download a test model and use custom G-code at layer changes.</p>
+<p>After printing, examine each section. Pick the retraction distance where stringing disappears. Then use that value for all your future prints with that filament.</p>
+<h2 id="quick-reference-anti-stringing-settings">Quick Reference: Anti-Stringing Settings</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Setting</th>
+          <th>Bowden Setup</th>
+          <th>Direct Drive Setup</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Retraction Distance</td>
+          <td>5-7mm</td>
+          <td>0.5-1.5mm</td>
+      </tr>
+      <tr>
+          <td>Retraction Speed</td>
+          <td>40-50 mm/s</td>
+          <td>20-30 mm/s</td>
+      </tr>
+      <tr>
+          <td>Travel Speed</td>
+          <td>150-200 mm/s</td>
+          <td>150-200 mm/s</td>
+      </tr>
+      <tr>
+          <td>Nozzle Temp (PLA)</td>
+          <td>195-205C</td>
+          <td>195-205C</td>
+      </tr>
+      <tr>
+          <td>Nozzle Temp (PETG)</td>
+          <td>225-235C</td>
+          <td>225-235C</td>
+      </tr>
+      <tr>
+          <td>Wipe</td>
+          <td>Enabled</td>
+          <td>Enabled</td>
+      </tr>
+      <tr>
+          <td>Coasting</td>
+          <td>0.064 mm3</td>
+          <td>Optional</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my PETG string so much more than PLA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PETG is naturally more stringy than PLA for two reasons. It prints at higher temperatures (230-240C vs 200-210C), which makes it flow more easily. It also absorbs moisture faster, and wet PETG strings badly. Dry your PETG filament and lower your print temperature to reduce stringing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can too much retraction cause problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Excessive retraction can cause clogs, especially on direct drive extruders. It can also grind the filament, creating dust that clogs the extruder gears. Stick to the recommended ranges: 5-7mm for Bowden, 0.5-1.5mm for direct drive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use Z-hop to reduce stringing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Z-hop lifts the nozzle during travel moves, which can help with some stringing issues. But it can also make stringing worse because the nozzle has more time to ooze while lifting and lowering. Try it with a small value (0.2mm) and see if it helps your specific situation."
+      }
+    }
+  ]
+}
+</script>
+<h3 id="why-does-my-petg-string-so-much-more-than-pla">Why does my PETG string so much more than PLA?</h3>
+<p>PETG is naturally more stringy than PLA for two reasons. It prints at higher temperatures (230-240C vs 200-210C), which makes it flow more easily. It also absorbs moisture faster, and wet PETG strings badly. Dry your PETG filament and lower your print temperature to reduce stringing.</p>
+<h3 id="can-too-much-retraction-cause-problems">Can too much retraction cause problems?</h3>
+<p>Yes. Too much retraction can cause clogs, especially on direct drive extruders. It can also grind the filament, creating dust that clogs the extruder gears. Stick to the recommended ranges: 5-7mm for Bowden, 0.5-1.5mm for direct drive.</p>
+<h3 id="should-i-use-z-hop-to-reduce-stringing">Should I use Z-hop to reduce stringing?</h3>
+<p>Z-hop lifts the nozzle during travel moves, which can help with some stringing issues. But it can also make stringing worse because the nozzle has more time to ooze while lifting and lowering. Try it with a small value (0.2mm) and see if it helps your specific situation.</p>
+
+</article>
+
+    </main>
+    
+    <div class="ad-placeholder" id="ad-bottom" aria-hidden="true">Ad Space</div>
+    <footer>
+      <p>&copy; 2026 PrintUpgraded. All rights reserved.</p>
+      <p>
+        <a href="/privacy/">Privacy Policy</a> &middot;
+        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      </p>
+      <p>Some links on this site are affiliate links. We may earn a commission if you make a purchase.</p>
+    </footer>
+  </div>
+</body>
+</html>

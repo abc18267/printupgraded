@@ -2,12 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://abc18267.github.io/printupgraded/blog/3d-print-troubleshooting/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/fix-3d-print-warping/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/blog/3d-printer-enclosure-guide/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/3d-printing-basics/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/3d-printing-software/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/abs/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/acceleration/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/accessories/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -18,6 +48,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://abc18267.github.io/printupgraded/blog/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/asa/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/asa-vs-abs/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -33,6 +73,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://abc18267.github.io/printupgraded/blog/best-3d-printer-upgrades/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/best-cura-settings-pla/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/3d-printer-led-lighting/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -57,6 +107,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/cura/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/cura-vs-orcaslicer-vs-prusaslicer/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/direct-drive/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,12 +132,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/elephants-foot/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/elephants-foot-first-layer-issues/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/enclosure/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/engineering-filament/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/extruder/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/extrusion-problems/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -122,6 +202,26 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/firmware/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/first-layer/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/fix-bed-adhesion/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/fixes/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/flexible-filament/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,6 +242,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/fix-3d-print-stringing/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/blog/how-to-print-petg/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,7 +257,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/reduce-stringing-slicer-settings/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/ikea-lack/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/infill/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/infill-patterns-explained/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -162,7 +282,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/klipper-vs-marlin/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/layer-adhesion/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/layer-adhesion-problems/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/led-lighting/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/magnetic-build-plate/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/marlin/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -178,6 +323,51 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/mods/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/noise-reduction/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/nylon/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/how-to-print-nylon/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/orcaslicer/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/orcaslicer-beginner-guide/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/outdoor-prints/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/overhangs/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/pa12/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/pa6/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -212,12 +402,42 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://abc18267.github.io/printupgraded/tags/print-quality/</loc>
+    <loc>https://abc18267.github.io/printupgraded/tags/print-problems/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/print-settings/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/print-speed-vs-quality/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/print-strength/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/print-profiles/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/print-quality/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/print-speed/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/printer-setup/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -232,7 +452,77 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/prusaslicer/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/quiet-printing/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/raspberry-pi/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/retraction/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/series/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/slicer-starter-kit/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/slicer-comparison/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/series/slicer-guides/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/categories/slicer-settings/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/slicer-settings/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/slicer-setup/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/stepper-drivers/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/stringing/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/3d-print-support-settings/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/supports/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -242,7 +532,42 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/tmc2209/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/tpu/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/categories/troubleshooting/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/troubleshooting/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/series/troubleshooting-guides/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/under-extrusion/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/blog/fix-under-extrusion/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -258,6 +583,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://abc18267.github.io/printupgraded/tags/upgrades/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abc18267.github.io/printupgraded/tags/uv-resistant/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

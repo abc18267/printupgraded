@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quiet Printing on PrintUpgraded</title>
+    <link>https://abc18267.github.io/printupgraded/tags/quiet-printing/</link>
+    <description>Recent content in Quiet Printing on PrintUpgraded</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abc18267.github.io/printupgraded/tags/quiet-printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet</title>
+      <link>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://abc18267.github.io/printupgraded/blog/tmc2209-stepper-driver-upgrade/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article may contain affiliate links. We may earn a small commission if you buy something through them, at no extra cost to you. We only recommend products we&amp;rsquo;d actually use ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tmc2209-stepper-driver-upgrade-make-your-printer-whisper-quiet&#34;&gt;TMC2209 Stepper Driver Upgrade: Make Your Printer Whisper Quiet&lt;/h1&gt;&#xA;&lt;p&gt;A TMC2209 stepper driver upgrade is one of the best things you can do if your 3D printer sounds like an angry robot. Stock stepper drivers on budget printers are loud. Really loud. Swapping them for TMC2209 drivers can drop your noise levels by up to 90%. Your printer won&amp;rsquo;t be silent. But it&amp;rsquo;ll go from &amp;ldquo;screaming in the next room&amp;rdquo; to &amp;ldquo;quiet hum at your desk.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
